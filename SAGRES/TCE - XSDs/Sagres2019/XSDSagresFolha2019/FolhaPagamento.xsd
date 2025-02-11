@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.tce.pi.gov.br/sagres2019/xml/folhaPagamento" version="1.0" xml:lang="pt-BR"
+	 xmlns:gen="http://www.tce.pi.gov.br/sagres2019/xml/genericos"
+	 xmlns:tab="http://www.tce.pi.gov.br/sagres2019/xml/tabelasInternas"
+	 xmlns:fol="http://www.tce.pi.gov.br/sagres2019/xml/folhaPagamento"
+	 xmlns:aux="http://www.tce.pi.gov.br/sagres2019/xml/cadastrosAuxiliaresSagresFolha"
+	 xmlns:xs= "http://www.w3.org/2001/XMLSchema">
+
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2019/xml/genericos"           schemaLocation="genericos.xsd"/>
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2019/xml/tabelasInternas"     schemaLocation="tabelasInternas.xsd"/>
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2019/xml/cadastrosAuxiliaresSagresFolha" schemaLocation="cadastrosauxiliaresSagresFolha.xsd"/>
+
+	 <!-- Namespaces: Conteudo: Descricao: Arquivos de cadastros das folhas de pagamento -->
+	 <xs:annotation>
+		<xs:documentation>
+			<Data>Tue Feb 19 12:26:42 GFT 2019 </Data>
+			<Descricao>Descricao: Arquivos de cadastros das folhas de pagamento </Descricao>
+			<Justificativa>Justificativa: Criação do modelo inicial para 2019</Justificativa>
+			<Versao>1.0</Versao>
+			</xs:documentation>
+	</xs:annotation>
+
+	 <!-- ============================================================================================== -->
+	 <!--SERVIDOR FOLHA(1) -->
+	 <xs:complexType name="servidorFolha_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="tipoFolha" type="tab:tipoFolha_t"/>
+			 <xs:element nillable="false" name="matricula" type="gen:codigo15_t"/>
+			 <xs:element nillable="false" name="cpfServidor" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="aliquotaPreviPatronal" type="gen:percentual_t"/>
+			 <xs:element nillable="false" name="aliquotaPreviServidor" type="gen:percentual_t"/>
+			 <xs:element nillable="false" name="remuneracaoTotal" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="remuneracaoLiquida" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="BaseCalcContPrevidenciaria" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="BaseCalcContIRPF" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="BaseCalcFGTS" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="valorFGTS" type="gen:valor_t"/>
+			 <xs:element maxOccurs="unbounded" minOccurs="1" name="evento" type="fol:evento_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--EVENTOS(2) -->
+	 <xs:complexType name="evento_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="tipoEvento" type="tab:tipoEvento_t"/>
+			 <xs:element nillable="false" name="codigoEvento" type="tab:codigoEvento_t"/>
+			 <xs:element nillable="false" name="codigoUnidOrcamentaria" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="numeroEmpenho" type="gen:numeroEmpenho_t"/>
+			 <xs:element nillable="false" name="numeroDocuLiquidacao" type="gen:numeroDocumento_t"/>
+			 <xs:element nillable="false" name="valor" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="incidePrevidencia" type="gen:simNao_t"/>
+			 <xs:element nillable="false" name="incideIR" type="gen:simNao_t"/>
+			 <xs:element nillable="false" name="incideFGTS" type="gen:simNao_t"/>
+			 <xs:element nillable="false" name="descricaoEvenUnidGestora" type="gen:nome_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--PAGAMENTO DA FOLHA(3) -->
+	 <xs:complexType name="pagamentoFolha_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="tipoFolha" type="tab:tipoFolha_t"/>
+			 <xs:element nillable="false" name="matricula" type="gen:codigo15_t"/>
+			 <xs:element nillable="false" name="cpfServidor" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="mesCompPagaFolha" type="gen:mes_t"/>
+			 <xs:element nillable="false" name="dataCredContServidor" type="gen:data_t"/>
+			 <xs:element maxOccurs="unbounded" minOccurs="1" name="dadosPagamentoFolha" type="gen:dadosPagamentoFolha_t"/>
+			 <xs:element nillable="false" name="exercicioAnterior" type="gen:simNao_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--EMPENHOS SUBSTITUÍDOS(4) -->
+	 <xs:complexType name="empenhoSubstituido_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoUnidOrcaEmpeSubstituido" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="numeroEmpeSubstituido" type="gen:numeroEmpenho_t"/>
+			 <xs:element nillable="false" name="codigoUnidOrcaEmpeSubstituto" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="numeroEmpeSubstituto" type="gen:codigo06_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!-- Folha de pagamento-->
+	 <xs:complexType name="listaFolhaPagamento_t">
+		 <xs:sequence>
+			 <xs:element  nillable="false"                    name="PrestacaoContas" type = "aux:PrestacaoContas_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="servidorFolha" type = "fol:servidorFolha_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="pagamentoFolha" type = "fol:pagamentoFolha_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="empenhoSubstituido" type = "fol:empenhoSubstituido_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!-- ========================================================================= -->
+	<!-- root -->
+	<xs:element name="folhaPagamento" type="fol:listaFolhaPagamento_t">
+	<!-- Restrições de chave única -->
+		 <!--SERVIDOR FOLHA(1) -->
+		 <xs:unique name="chaveservidorFolha" id="chaveservidorFolha">
+			<xs:selector xpath="fol:servidorFolha"/>
+			<xs:field xpath="fol:tipoFolha"/>
+			<xs:field xpath="fol:matricula"/>
+			<xs:field xpath="fol:cpfServidor"/>
+		</xs:unique>
+		 <!--PAGAMENTO DA FOLHA(3) -->
+		 <xs:unique name="chavepagamentoFolha" id="chavepagamentoFolha">
+			<xs:selector xpath="fol:pagamentoFolha"/>
+			<xs:field xpath="fol:tipoFolha"/>
+			<xs:field xpath="fol:matricula"/>
+			<xs:field xpath="fol:cpfServidor"/>
+			<xs:field xpath="fol:mesCompPagaFolha"/>
+			<xs:field xpath="fol:exercicioAnterior"/>
+		</xs:unique>
+		 <!--EMPENHOS SUBSTITUÍDOS(4) -->
+		 <xs:unique name="chaveempenhoSubstituido" id="chaveempenhoSubstituido">
+			<xs:selector xpath="fol:empenhoSubstituido"/>
+			<xs:field xpath="fol:codigoUnidOrcaEmpeSubstituido"/>
+			<xs:field xpath="fol:numeroEmpeSubstituido"/>
+			<xs:field xpath="fol:codigoUnidOrcaEmpeSubstituto"/>
+			<xs:field xpath="fol:numeroEmpeSubstituto"/>
+		</xs:unique>
+	</xs:element>
+</xs:schema>

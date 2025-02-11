@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--**********************************-->
+<!--* FIORILLI SOFTWARE LTDA         *-->
+<!--* SISTEMA INTEGRADO DE PESSOAL   *-->
+<!--* GERADO 29/10/2021 16:15:13     *-->
+<!--* VERSAO 7.5.325.2.15081/B       *-->
+<!--* USUARIO JONATAS.SILVA          *-->
+<!--* DOMINIO DCFIORILLI             *-->
+<!--* NOME PC PICONTREINA8           *-->
+<!--**********************************-->
+<aux:CadastrosAuxiliaresSagresFolha xmlns:fol="http://www.tce.pi.gov.br/sagres2021/xml/folhaPagamento" xmlns:aux="http://www.tce.pi.gov.br/sagres2021/xml/cadastrosAuxiliaresSagresFolha" xmlns:gen="http://www.tce.pi.gov.br/sagres2021/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2021/xml/tabelasInternas">
+  <aux:PrestacaoContas>
+    <aux:codigoUnidGestora>201133</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>P. M. DE MORRO CABECA NO TEMPO</aux:nomeUnidGestora>
+    <aux:cpfContador>01340944332</aux:cpfContador>
+    <aux:cpfGestor>82387796349</aux:cpfGestor>
+    <aux:anoReferencia>2021</aux:anoReferencia>
+    <aux:mesReferencia>8</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>1</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>31</aux:diaFinaPresContas>
+  </aux:PrestacaoContas>
+  <aux:Cargo>
+    <aux:codigoCargo>00000123</aux:codigoCargo>
+    <aux:nomeDoCargo>ASSESSORIA DA CONTROLADORIA INTERNA</aux:nomeDoCargo>
+    <aux:cargaHoraria>40</aux:cargaHoraria>
+    <aux:tipoEscolaridade>0</aux:tipoEscolaridade>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:vecimentoBaseOuSalario>0.00</aux:vecimentoBaseOuSalario>
+    <aux:tipoOcupacao>411010</aux:tipoOcupacao>
+    <aux:naturezaCargo>3</aux:naturezaCargo>
+  </aux:Cargo>
+  <aux:Cargo>
+    <aux:codigoCargo>00000183</aux:codigoCargo>
+    <aux:nomeDoCargo>COORDENAÇÃO EPIDEMIOLOGICA</aux:nomeDoCargo>
+    <aux:cargaHoraria>40</aux:cargaHoraria>
+    <aux:tipoEscolaridade>0</aux:tipoEscolaridade>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:vecimentoBaseOuSalario>0.00</aux:vecimentoBaseOuSalario>
+    <aux:tipoOcupacao>410105</aux:tipoOcupacao>
+    <aux:naturezaCargo>3</aux:naturezaCargo>
+  </aux:Cargo>
+  <aux:Servidor>
+    <aux:matricula>000000000000291</aux:matricula>
+    <aux:cpfServidor>03835556550</aux:cpfServidor>
+    <aux:rgServidor>574915977</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2013-10-23</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>MARTA ALVES EPAMINONDAS</aux:nomeServidor>
+    <aux:dataNascimento>1991-01-04</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000039217591503</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000020054663924</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>81172770859</aux:cpfPai>
+    <aux:nomePai>JOÃO DIAS EPAMINONDAS</aux:nomePai>
+    <aux:cpfMae>86333623504</aux:cpfMae>
+    <aux:nomeMae>ELADIA ALVES FOLHA EPAMINONDAS</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000292</aux:matricula>
+    <aux:cpfServidor>04224031566</aux:cpfServidor>
+    <aux:rgServidor>8447894</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2021-09-13</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>LILIA SOARES ALVES</aux:nomeServidor>
+    <aux:dataNascimento>1987-11-03</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000119970450574</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016377450924</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>84567481534</aux:cpfPai>
+    <aux:nomePai>JOSÉ LOPES DOS SANTOS</aux:nomePai>
+    <aux:cpfMae>00172848563</aux:cpfMae>
+    <aux:nomeMae>NECI SOARES DOS SANTOS</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000293</aux:matricula>
+    <aux:cpfServidor>03892833559</aux:cpfServidor>
+    <aux:rgServidor>145023699</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPBA</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2018-08-28</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>JÚNIOR RIBEIRO DE SOUSA</aux:nomeServidor>
+    <aux:dataNascimento>2021-01-21</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000141878290507</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000014304014869</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>OSVALDO JOSÉ DE SOUSA</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>MARIA RIBEIRO DE SOUSA</aux:nomeMae>
+  </aux:Servidor>
+</aux:CadastrosAuxiliaresSagresFolha>

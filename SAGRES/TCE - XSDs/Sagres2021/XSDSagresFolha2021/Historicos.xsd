@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.tce.pi.gov.br/sagres2021/xml/historicos" version="1.0" xml:lang="pt-BR"
+	 xmlns:gen="http://www.tce.pi.gov.br/sagres2021/xml/genericos"
+	 xmlns:tab="http://www.tce.pi.gov.br/sagres2021/xml/tabelasInternas"
+	 xmlns:his="http://www.tce.pi.gov.br/sagres2021/xml/historicos"
+	 xmlns:aux="http://www.tce.pi.gov.br/sagres2021/xml/cadastrosAuxiliaresSagresFolha"
+	 xmlns:xs= "http://www.w3.org/2001/XMLSchema">
+
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2021/xml/genericos"           schemaLocation="genericos.xsd"/>
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2021/xml/tabelasInternas"     schemaLocation="tabelasInternas.xsd"/>
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2021/xml/cadastrosAuxiliaresSagresFolha" schemaLocation="cadastrosauxiliaresSagresFolha.xsd"/>
+
+	 <!-- Namespaces: Conteudo: Descricao: Arquivos de cadastros dos históricos pessoal e funcional -->
+	 <xs:annotation>
+		<xs:documentation>
+			<Data>Wed Dec 23 15:51:27 GFT 2020 </Data>
+			<Descricao>Descricao: Arquivos de cadastros dos históricos pessoal e funcional </Descricao>
+			<Justificativa>Justificativa: Criação do modelo inicial para 2021</Justificativa>
+			<Versao>1.0</Versao>
+			</xs:documentation>
+	</xs:annotation>
+
+	 <!-- ============================================================================================== -->
+	 <!--HISTÓRICO PESSOAL(1) -->
+	 <xs:complexType name="HistoricoPessoal_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="matricula" type="gen:codigo15_t"/>
+			 <xs:element nillable="false" name="cpfServidor" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="true" name="tipoEscolaridade" type="tab:tipoEscolaridade_t"/>
+			 <xs:element nillable="true" name="dataAlteracao" type="gen:data_t"/>
+			 <xs:element nillable="true" name="endereco" type="gen:endereco"/>
+			 <xs:element nillable="true" name="dadosBancarios" type="gen:dadosBancarios_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--HISTÓRICO FUNCIONAL(2) -->
+	 <xs:complexType name="HistoricoFuncional_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="matricula" type="gen:codigo15_t"/>
+			 <xs:element nillable="false" name="cpfServidor" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="tipoAtoPessoal" type="tab:tipoAtoPessoal_t"/>
+			 <xs:element nillable="false" name="dataMoviFuncional" type="gen:data_t"/>
+			 <xs:element nillable="true" name="informacoesAlteradas" type="gen:informacoesAlteradas_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!-- Históricos pessoal e funcional -->
+	 <xs:complexType name="listaHistoricos_t">
+		 <xs:sequence>
+			 <xs:element  maxOccurs="1" minOccurs="1" name="PrestacaoContas" type = "aux:PrestacaoContas_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="HistoricoPessoal" type = "his:HistoricoPessoal_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="HistoricoFuncional" type = "his:HistoricoFuncional_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!-- ========================================================================= -->
+	<!-- root -->
+	<xs:element name="historicos" type="his:listaHistoricos_t">
+	<!-- Restrições de chave única -->
+		 <!--HISTÓRICO PESSOAL(1) -->
+		 <xs:unique name="chaveHistoricoPessoal" id="chaveHistoricoPessoal">
+			<xs:selector xpath="his:HistoricoPessoal"/>
+			<xs:field xpath="his:matricula"/>
+			<xs:field xpath="his:cpfServidor"/>
+			<xs:field xpath="his:dataAlteracao"/>
+		</xs:unique>
+		 <!--HISTÓRICO FUNCIONAL(2) -->
+		 <xs:unique name="chaveHistoricoFuncional" id="chaveHistoricoFuncional">
+			<xs:selector xpath="his:HistoricoFuncional"/>
+			<xs:field xpath="his:matricula"/>
+			<xs:field xpath="his:cpfServidor"/>
+			<xs:field xpath="his:tipoAtoPessoal"/>
+			<xs:field xpath="his:dataMoviFuncional"/>
+		</xs:unique>
+	</xs:element>
+</xs:schema>

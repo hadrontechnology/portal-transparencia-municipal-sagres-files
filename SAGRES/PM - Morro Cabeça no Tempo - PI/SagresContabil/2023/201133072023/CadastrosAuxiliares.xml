@@ -1,0 +1,3035 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--FIORILLI SOC. CIVIL LTDA - SOFTWARE-->
+<!--ENVIADO POR: -a-->
+<!--VERSAO TCE-PI: 9.25.1567.19-->
+<!--VERSAO DIARIO RAZAO: 9.25.1567.67-->
+<!--VERSAO EVENTOS: 2769-->
+<aux:CadastrosAuxiliares xmlns:aux="http://www.tce.pi.gov.br/sagres2023/xml/cadastrosAuxiliares" xmlns:gen="http://www.tce.pi.gov.br/sagres2023/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2023/xml/tabelasInternas">
+  <aux:PrestacaoContas>
+    <aux:codigoUnidGestora>201133</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>PREFEITURA MUNICIPAL MORRO CABEÇA NO TEMPO</aux:nomeUnidGestora>
+    <aux:cpfContador>01483122336</aux:cpfContador>
+    <aux:cpfGestor>82387796349</aux:cpfGestor>
+    <aux:anoReferencia>2023</aux:anoReferencia>
+    <aux:mesReferencia>07</aux:mesReferencia>
+    <aux:versaoXml>0</aux:versaoXml>
+    <aux:diaInicPresContas>01</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>31</aux:diaFinaPresContas>
+  </aux:PrestacaoContas>
+  <aux:CadastroContaBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000710861</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:descricaoContBancaria>CONV 939754 2022</aux:descricaoContBancaria>
+    <aux:digitoVerificador>1</aux:digitoVerificador>
+  </aux:CadastroContaBancaria>
+  <aux:CadastroContaBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000710926</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:descricaoContBancaria>CONV 941779 2023</aux:descricaoContBancaria>
+    <aux:digitoVerificador>6</aux:digitoVerificador>
+  </aux:CadastroContaBancaria>
+  <aux:CadastroContaBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000710926</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:descricaoContBancaria>CONV 941779 2023</aux:descricaoContBancaria>
+    <aux:digitoVerificador>6</aux:digitoVerificador>
+  </aux:CadastroContaBancaria>
+  <aux:Decreto>
+    <aux:numeroDecreto>
+      <gen:numero>000028</gen:numero>
+      <gen:ano>2023</gen:ano>
+    </aux:numeroDecreto>
+    <aux:numeroLeiQueAutorizou>
+      <gen:numero>000037</gen:numero>
+      <gen:ano>2023</gen:ano>
+    </aux:numeroLeiQueAutorizou>
+    <aux:dataDecreto>2023-07-03</aux:dataDecreto>
+    <aux:dataPublDecreto>2023-07-03</aux:dataPublDecreto>
+    <aux:tipoPublicacao>2</aux:tipoPublicacao>
+  </aux:Decreto>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>000</aux:codigoBanco>
+    <aux:codigoAgencia>0000</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000000000</aux:numeroContBancaria>
+    <aux:tipoContBancaria>0</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019901</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>000</aux:codigoBanco>
+    <aux:codigoAgencia>0000</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000000000</aux:numeroContBancaria>
+    <aux:tipoContBancaria>0</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019902</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000710861</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019903</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000710926</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019904</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000710926</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019905</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000111111</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019906</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000113794</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019907</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000113794</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019908</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000114278</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019909</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000116904</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019910</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000116904</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019911</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000132268</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019912</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000132268</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019913</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000013242</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019914</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000013242</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019915</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000132519</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019916</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000134007</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019917</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000135127</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019918</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000135127</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019919</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000136468</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019920</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000136468</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019921</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000137138</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019922</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000137340</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019923</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000140708</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019924</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000140708</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019925</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000148822</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019926</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000148822</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019927</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000150207</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019928</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000150207</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019929</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000150738</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019930</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000150738</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019931</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000151564</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019932</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000156647</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019933</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000156655</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019934</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000158119</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019935</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000158119</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019936</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000015864</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019937</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000015864</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019938</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000160725</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019939</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000160725</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019940</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000160733</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019941</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000160733</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019942</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000160741</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019943</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000160741</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019944</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000016075</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019945</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000016075</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019946</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000170003</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019947</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000170033</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019948</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000017551</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019949</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000017551</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019950</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000018098</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019951</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000018098</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019952</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000018330</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019953</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000018330</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019954</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000183679</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019955</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000183679</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019956</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190799</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019957</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190799</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019958</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190802</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019959</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190802</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019960</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190810</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019961</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190810</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019962</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190822</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019963</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190829</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019964</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190829</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019965</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190837</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019966</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000190837</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019967</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000192279</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019968</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000192279</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019969</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000194328</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019970</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000194328</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019971</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000194700</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019972</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000019470</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019973</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000019509</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019974</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000196320</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019975</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000196320</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019976</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000197378</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019977</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000197378</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019978</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000199532</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019979</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000201774</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019980</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000201774</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019981</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000203394</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019982</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000203394</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019983</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000209538</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019984</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000209538</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019985</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000209597</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019986</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000209597</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019987</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000209651</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019988</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000209651</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019989</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000021034</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019990</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000021034</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019991</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000211729</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019992</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000211729</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019993</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000211796</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019994</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000211796</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019995</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000211869</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019996</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000211869</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019997</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000217727</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019998</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000217727</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00019999</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000218103</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020000</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000218103</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020001</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000220647</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020002</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000220647</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020003</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000002211</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020004</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000002211</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020005</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000022128</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020006</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000022128</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020007</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000226076</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020008</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000226076</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020009</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000226343</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020010</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000226343</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020011</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000226521</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020012</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000226521</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020013</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000230693</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020014</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000230693</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020015</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000238570</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020016</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000238570</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020017</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000023876</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020018</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000023876</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020019</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000244201</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020020</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000244201</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020021</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000247804</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020022</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000247804</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020023</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000247936</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020024</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000247936</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020025</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000026233</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020026</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000262331</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020027</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000026234</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020028</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000026234</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020029</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000262358</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020030</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000262358</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020031</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000026643</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020032</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000266434</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020033</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000277045</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020034</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000277045</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020035</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000027940</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020036</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0002794021</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020037</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000027946</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020038</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000279463</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020039</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000027977</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020040</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000279773</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020041</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0002831449</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020042</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0002831449</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020043</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000291625</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020044</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000291625</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020045</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>0589</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000032692</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020046</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>0589</aux:codigoAgencia>
+    <aux:numeroContBancaria>0003269251</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020047</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>0589</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000036987</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020048</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>0589</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000036987</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020049</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>0589</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000373559</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020050</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>0589</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000373559</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020051</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>0589</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000037454</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020052</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>0589</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000374547</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020053</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000400033</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020054</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000056383</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020055</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000056383</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020056</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000580422</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020057</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000580422</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020058</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000580678</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020059</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006470784</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020060</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006470781</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020061</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006470784</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020062</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006470784</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020063</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000647215</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020064</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006472156</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020065</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000647221</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020066</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006472210</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020067</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000647223</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020068</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006472237</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020069</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000647230</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020070</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006472300</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020071</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000064734</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020072</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006720052</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020073</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006720052</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020074</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000672014</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020075</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2780</aux:codigoAgencia>
+    <aux:numeroContBancaria>0006720141</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020076</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000070661</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020077</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000007067</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020078</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000007067</aux:numeroContBancaria>
+    <aux:tipoContBancaria>3</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020079</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000078476</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020080</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000078476</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020081</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000083038</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020082</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000083038</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020083</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>2004</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000009837</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020084</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000137340</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020085</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>1209</aux:codigoAgencia>
+    <aux:numeroContBancaria>0000262358</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00020086</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 07 2023 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2023-07-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>00672186527</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ONILIA MANGUEIRA MENDES</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>POVOADO DESEJADO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RUAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>01059537842</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>WILSON PEREIRA DE SOUSA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>POVOADO GRAJAU</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RURAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>01108439322</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ONILDO JOSE DE SOUSA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>POVOADO BERNARDO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RURAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>02434292313</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>SERGIO SOARES DA SILVA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA CANDIDO DAMASCENO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CIDADE NOVA</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>03496451327</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>GESILENE MARQUES DONASCIMENTO</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>ZONA RURAL</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>BOM JARDIM</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>03726562346</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>VALDENICE MENDES FOLHA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>NAO INFORMADO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>00000000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>07364365000144</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>GB COMPANY LTDA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA BR 135</gen:logradouro>
+      <gen:numero>145</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>64980000</gen:numeroCep>
+      <gen:municipio>CORRENTE</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>07364365000225</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>GB COMPANY LTDA-ME</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA ANTONIO NOGUEIRA DE CARVALHO</gen:logradouro>
+      <gen:numero>72</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>00000000</gen:numeroCep>
+      <gen:municipio>CORRENTE</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>07127769311</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>VIVIA DE SENA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>CIDADE NOVA</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>07526751335</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>DELMA DE SOUSA COSTA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>NAO INFORMADO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>07810200348</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>NAIARA SOUSA RODRIGUES</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>ZONA RURAL</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>BAIXAO DO MEL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>08405570357</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>LUCIANO JOSE DE SOUSA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>ZONA RURAL</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>BEBE MIJO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>08523482156</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ADELMO THIERRY NOGUEIRA DA SILVA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA ABRAAO ALVES</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CIDADE NOVA</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>09073083338</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>LENI BATISTA DE SOUSA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA PROJETADA</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CIDADE NOVA</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>10249813000173</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ADILSON BARBOSA CRUZ ALARMES</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>AVENIDA SOUZA FILHO</gen:logradouro>
+      <gen:numero>728</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>56302370</gen:numeroCep>
+      <gen:municipio>PETROLINA</gen:municipio>
+      <gen:estado>PE</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>14066903843</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>IDEBLANDIO JOSE DE SOUSA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA ANTINIO PEREIRA DO COUTO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CIDADE NOVO</gen:bairro>
+      <gen:numeroCep>00000000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>19742597000178</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>VIEMAQUINAS COMERCIO DE MAQUINAS LTDA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>ROD BR 101</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NOVA BRASILIA</gen:bairro>
+      <gen:numeroCep>88780000</gen:numeroCep>
+      <gen:municipio>IMBITUBA</gen:municipio>
+      <gen:estado>SC</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>21682739368</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>RAIMUNDO NONATO DE ALMEIDA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>BAIRRO CONCEICAO</gen:logradouro>
+      <gen:numero>109</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>64980000</gen:numeroCep>
+      <gen:municipio>CORRENTE</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>27345811832</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>MARIA ZILDA DE SOUSA LUSTOSA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>ZONA RURAL</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CRUZ</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>28692693820</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ARENALDO NUNES BARRETO</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>LAGOA DO ARROZ</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RURAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>32247281000178</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>GLOBAL MAIS VEICULOS LTDA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>AVENIDA PEDRO ALMEIDA</gen:logradouro>
+      <gen:numero>413</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>SAO CRISTOVAO</gen:bairro>
+      <gen:numeroCep>64052280</gen:numeroCep>
+      <gen:municipio>TERESINA</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>35079010000149</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ANDRE NUNES BARROS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>R DA LIBERDADE</gen:logradouro>
+      <gen:numero>97</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64980000</gen:numeroCep>
+      <gen:municipio>CORRENTE</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>35627184000107</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>CANDINHO DEVEZA ROCHA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>AV ABRAAO ALVES</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>40217666000110</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>BORGES E MARTINS SOCIEDADE DE ADVOGADOS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA COELHO RODRIGUES</gen:logradouro>
+      <gen:numero>340</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64600054</gen:numeroCep>
+      <gen:municipio>PICOS</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>46135499000145</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>FORZA DISTRIBUIDORA LTDA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>AVENIDA DO COMERCIO</gen:logradouro>
+      <gen:numero>25</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>VILA MARIA JOSE</gen:bairro>
+      <gen:numeroCep>74815457</gen:numeroCep>
+      <gen:municipio>GOIANIA</gen:municipio>
+      <gen:estado>GO</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>46585556000198</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>2E SERVICOS DE ENGENHARIA E CONSULTORIA LTDA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>R DAS PALMEIRAS</gen:logradouro>
+      <gen:numero>22</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>47220000</gen:numeroCep>
+      <gen:municipio>CAMPO ALEGRE DE LOURDES</gen:municipio>
+      <gen:estado>BA</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>48722366000109</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>RC DISTRIBUIDORA DE MEDICAMENTOS LTDA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>PC FRANCISCO ANTONIO DA SILVA</gen:logradouro>
+      <gen:numero>864</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64770000</gen:numeroCep>
+      <gen:municipio>SAO RAIMUNDO NONATO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>49464926000127</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>LRF DISTRIBUIDORA LTDA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA ANDRE VIDAL DE NEGREIROS</gen:logradouro>
+      <gen:numero>565</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>SAO JOSE</gen:bairro>
+      <gen:numeroCep>55295200</gen:numeroCep>
+      <gen:municipio>GARANHUNS</gen:municipio>
+      <gen:estado>PE</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>53567749315</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ALICE BATISTA FIGUEREDO</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>ZONA RURAL</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ARROZ</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>61476402329</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>TAIS BATISTA FIGUEREDO</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA MORADA DO SOL</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>62227640000196</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>BACULERE EQUIPAMENTOS S.A</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>EST MUNICIPAL OLIMPIA BARRETOS</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>DISTR. INDUSTRIAL-II</gen:bairro>
+      <gen:numeroCep>15400000</gen:numeroCep>
+      <gen:municipio>OLIMPIA</gen:municipio>
+      <gen:estado>SP</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>63699568300</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>TATIANA MARIA DA SILVA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA BOM JESUS</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>84347406304</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>MARILUZA PEREIRA MARQUES</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>ZONA RURAL</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CRUZ</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+    <aux:identificadorFornEstrangeiro>00000000000000000000000000000000000000000000</aux:identificadorFornEstrangeiro>
+  </aux:Fornecedor>
+</aux:CadastrosAuxiliares>

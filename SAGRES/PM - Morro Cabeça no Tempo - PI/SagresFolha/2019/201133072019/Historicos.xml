@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<his:historicos xmlns:his="http://www.tce.pi.gov.br/sagres2019/xml/historicos" xmlns:gen="http://www.tce.pi.gov.br/sagres2019/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2019/xml/tabelasInternas" xmlns:aux="http://www.tce.pi.gov.br/sagres2019/xml/cadastrosAuxiliaresSagresFolha">
+	<his:PrestacaoContas>
+		<aux:codigoUnidGestora>201133</aux:codigoUnidGestora>
+		<aux:nomeUnidGestora>PREFEITURA MUNCIPAL DE MORRO C</aux:nomeUnidGestora>
+		<aux:cpfContador>27675215893</aux:cpfContador>
+		<aux:cpfGestor>16939900837</aux:cpfGestor>
+		<aux:anoReferencia>2019</aux:anoReferencia>
+		<aux:mesReferencia>7</aux:mesReferencia>
+		<aux:versaoXml>19</aux:versaoXml>
+		<aux:diaInicPresContas>1</aux:diaInicPresContas>
+		<aux:diaFinaPresContas>31</aux:diaFinaPresContas>
+	</his:PrestacaoContas>
+	<his:HistoricoPessoal>
+		<his:matricula>000000000000000</his:matricula>
+		<his:cpfServidor>05370105308</his:cpfServidor>
+		<his:tipoEscolaridade>3</his:tipoEscolaridade>
+		<his:dataAlteracao>2019-07-01</his:dataAlteracao>
+		<his:endereco>
+			<gen:logradouro>RUA ABRAO ALVES</gen:logradouro>
+			<gen:numero>100</gen:numero>
+			<gen:complemento>SEM COMPLEMENTO</gen:complemento>
+			<gen:bairro>CIDADE VELHA</gen:bairro>
+			<gen:numeroCep>64968000</gen:numeroCep>
+			<gen:municipio>MORRO CABECA NO TEMP</gen:municipio>
+			<gen:estado>PI</gen:estado>
+			<gen:telefoneFixo>8935710022</gen:telefoneFixo>
+			<gen:telefoneCelular></gen:telefoneCelular>
+		</his:endereco>
+		<his:dadosBancarios>
+			<gen:codigoBanco>001</gen:codigoBanco>
+			<gen:codigoAgencia>120902</gen:codigoAgencia>
+			<gen:numeroContBancaria>218324</gen:numeroContBancaria>
+		</his:dadosBancarios>
+	</his:HistoricoPessoal>
+	<his:HistoricoPessoal>
+		<his:matricula>000000000000000</his:matricula>
+		<his:cpfServidor>07124607302</his:cpfServidor>
+		<his:tipoEscolaridade>3</his:tipoEscolaridade>
+		<his:dataAlteracao>2019-07-01</his:dataAlteracao>
+		<his:endereco>
+			<gen:logradouro>RUA ABRAO ALVES</gen:logradouro>
+			<gen:numero>100</gen:numero>
+			<gen:complemento>SEM COMPLEMENTO</gen:complemento>
+			<gen:bairro>CIDADE VELHA</gen:bairro>
+			<gen:numeroCep>64968000</gen:numeroCep>
+			<gen:municipio>MORRO CABECA NO TEMP</gen:municipio>
+			<gen:estado>PI</gen:estado>
+			<gen:telefoneFixo>8935710022</gen:telefoneFixo>
+			<gen:telefoneCelular></gen:telefoneCelular>
+		</his:endereco>
+		<his:dadosBancarios>
+			<gen:codigoBanco>104</gen:codigoBanco>
+			<gen:codigoAgencia>278004</gen:codigoAgencia>
+			<gen:numeroContBancaria>285160</gen:numeroContBancaria>
+		</his:dadosBancarios>
+	</his:HistoricoPessoal>
+	<his:HistoricoFuncional>
+		<his:matricula>000000000000000</his:matricula>
+		<his:cpfServidor>05370105308</his:cpfServidor>
+		<his:tipoAtoPessoal>1002</his:tipoAtoPessoal>
+		<his:dataMoviFuncional>2019-07-01</his:dataMoviFuncional>
+		<his:informacoesAlteradas>
+			<gen:atoTipo01>
+				<gen:codigoCargo>00000136</gen:codigoCargo>
+				<gen:codigoLotacao>000000000000038</gen:codigoLotacao>
+				<gen:tipoRegiPrevidencia>1</gen:tipoRegiPrevidencia>
+				<gen:tipoRegiTrabalho>0</gen:tipoRegiTrabalho>
+				<gen:tipoVinculo>2</gen:tipoVinculo>
+				<gen:dataNomeacao>2019-07-17</gen:dataNomeacao>
+				<gen:dataExercicio>2019-07-17</gen:dataExercicio>
+				<gen:dataPosse>2019-07-17</gen:dataPosse>
+				<gen:numeroEdital>
+					<gen:numero>000001</gen:numero>
+					<gen:ano>2019</gen:ano>
+				</gen:numeroEdital>
+			</gen:atoTipo01>
+		</his:informacoesAlteradas>
+	</his:HistoricoFuncional>
+	<his:HistoricoFuncional>
+		<his:matricula>000000000000000</his:matricula>
+		<his:cpfServidor>07124607302</his:cpfServidor>
+		<his:tipoAtoPessoal>1002</his:tipoAtoPessoal>
+		<his:dataMoviFuncional>2019-07-01</his:dataMoviFuncional>
+		<his:informacoesAlteradas>
+			<gen:atoTipo01>
+				<gen:codigoCargo>00000194</gen:codigoCargo>
+				<gen:codigoLotacao>000000000000038</gen:codigoLotacao>
+				<gen:tipoRegiPrevidencia>1</gen:tipoRegiPrevidencia>
+				<gen:tipoRegiTrabalho>0</gen:tipoRegiTrabalho>
+				<gen:tipoVinculo>2</gen:tipoVinculo>
+				<gen:dataNomeacao>2019-07-01</gen:dataNomeacao>
+				<gen:dataExercicio>2019-07-01</gen:dataExercicio>
+				<gen:dataPosse>2019-07-01</gen:dataPosse>
+				<gen:numeroEdital>
+					<gen:numero>000001</gen:numero>
+					<gen:ano>2019</gen:ano>
+				</gen:numeroEdital>
+			</gen:atoTipo01>
+		</his:informacoesAlteradas>
+	</his:HistoricoFuncional>
+</his:historicos>

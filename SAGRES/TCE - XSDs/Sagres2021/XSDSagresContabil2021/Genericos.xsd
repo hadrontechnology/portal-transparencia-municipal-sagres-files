@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.tce.pi.gov.br/sagres2021/xml/genericos" version="1.0" xml:lang="pt-BR"
+	 xmlns:gen="http://www.tce.pi.gov.br/sagres2021/xml/genericos"
+
+	 xmlns:tab="http://www.tce.pi.gov.br/sagres2021/xml/tabelasInternas"	 xmlns:xs= "http://www.w3.org/2001/XMLSchema">
+
+
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2021/xml/tabelasInternas"      schemaLocation="tabelasInternas.xsd"/>
+
+	 <!-- Namespaces: Conteudo: Descricao: Validadores dos tipos genericos  -->
+	 <xs:annotation>
+		<xs:documentation>
+			<Data>Mon Feb 15 12:21:41 GFT 2021 </Data>
+			<Descricao>Descricao: Validadores dos tipos genericos  </Descricao>
+			<Justificativa>Justificativa: Modelo para 2015</Justificativa>
+			<Versao>1.0</Versao>
+			</xs:documentation>
+	</xs:annotation>
+
+  <!-- ==================================================================================== -->
+  <!-- Validadores - prefixo: gen Conteúdo: tipos primitivos  -->
+  <!-- ==================================================================================== -->
+
+  <!-- ==================================================================================== -->
+  <!-- anoEmisEmpenho -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="anoEmisEmpenho_t">
+	  <xs:restriction base="xs:int">
+       <xs:minInclusive value="2004"/>
+       <xs:maxInclusive value="2021"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- anoIngrFontRecurso -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="anoIngrFontRecurso_t">
+	          <xs:restriction base="xs:string">
+                <xs:enumeration value="0000"/>
+                <xs:enumeration value="2000"/> 
+                <xs:enumeration value="2001"/> 
+                <xs:enumeration value="2002"/> 
+                <xs:enumeration value="2003"/> 
+                <xs:enumeration value="2004"/> 
+                <xs:enumeration value="2005"/> 
+                <xs:enumeration value="2006"/> 
+                <xs:enumeration value="2007"/> 
+                <xs:enumeration value="2008"/>
+                <xs:enumeration value="2009"/>
+                <xs:enumeration value="2010"/>
+                <xs:enumeration value="2011"/>
+                <xs:enumeration value="2012"/>
+                <xs:enumeration value="2013"/>
+                <xs:enumeration value="2014"/>
+                <xs:enumeration value="2015"/>                
+                <xs:enumeration value="2016"/>
+                <xs:enumeration value="2017"/> 
+                <xs:enumeration value="2018"/>
+                <xs:enumeration value="2020"/>
+                <xs:enumeration value="2021"/>
+         </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- atributoSupeFinanceiro -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="atributoSupeFinanceiro_t">
+	  <xs:restriction base="xs:string">
+        <xs:enumeration value="F"/>  <!-- Financeiro -->
+        <xs:enumeration value="P"/>  <!-- Permanente -->
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- cnpj -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="cnpj_t">
+	  <xs:restriction base="xs:string">
+        <xs:whiteSpace value="preserve"/>
+        <xs:pattern value="[0-9]{14}"/>
+   </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- codigo03 -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="codigo03_t">
+	  <xs:restriction base="xs:string">
+      <xs:whiteSpace value="collapse"/>
+      <xs:pattern value="[0-9]{3}"/>
+   </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- codigo04 -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="codigo04_t">
+	  <xs:restriction base="xs:string">
+       <xs:whiteSpace value="collapse"/>
+       <xs:pattern value="[0-9]{4}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- codigo06 -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="codigo06_t">
+	  <xs:restriction base="xs:string">
+       <xs:whiteSpace value="collapse"/>
+      <xs:pattern value="[0-9]{6}"/>
+   </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- codigo08 -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="codigo08_t">
+	  <xs:restriction base="xs:string">
+        <xs:whiteSpace value="collapse"/>
+        <xs:pattern value="[0-9]{8}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- codigo15 -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="codigo15_t">
+	  <xs:restriction base="xs:string">
+        <xs:whiteSpace value="collapse"/>
+        <xs:pattern value="[0-9]{15}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- codigoAgencia -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="codigoAgencia_t">
+	  <xs:restriction base="xs:string">
+       <xs:whiteSpace value="collapse"/>
+       <xs:pattern value="[0-9]{5}([0-9]|X)"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- competencia -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="competencia_t">
+	<xs:sequence>
+     <xs:element name="ano">
+            <xs:simpleType>
+                 <xs:restriction base="xs:int">
+                       <xs:minInclusive value="2013"/>
+                       <xs:maxInclusive value="2021"/>
+                 </xs:restriction>
+          </xs:simpleType>
+   </xs:element>
+       <xs:element name="mes">
+           <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                          <xs:enumeration value="01"/>
+                         <xs:enumeration value="02"/>
+                         <xs:enumeration value="03"/>
+                         <xs:enumeration value="04"/>
+                         <xs:enumeration value="05"/>
+                         <xs:enumeration value="06"/>
+                         <xs:enumeration value="07"/>
+                         <xs:enumeration value="08"/>
+                         <xs:enumeration value="09"/>
+                         <xs:enumeration value="10"/>
+                         <xs:enumeration value="11"/>
+                         <xs:enumeration value="12"/>
+                    </xs:restriction>
+                </xs:simpleType>
+     </xs:element>
+</xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- cpfCnpjCredor -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="cpfCnpjCredor_t">
+	  <xs:restriction base="xs:string">
+        <xs:whiteSpace value="preserve"/>
+        <xs:pattern value="[0-9]{11}|[0-9]{14}"/>
+   </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- dadosBancarios -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="dadosBancarios_t">
+	  <xs:sequence>
+     <xs:element nillable="false" name="codigoBanco"        type="tab:codigoBanco_t"/>
+     <xs:element nillable="false" name="codigoAgencia"      type="gen:codigoAgencia_t"/>
+     <xs:element nillable="false" name="numeroContBancaria" type="gen:string20_t"/>
+   </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- dadosPagamento -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="dadosPagamento_t">
+	 <xs:choice>
+    <xs:element  maxOccurs="1" minOccurs="1" name="numeroChequedocumento" type = "gen:codigo15_t"/>
+    <xs:element  maxOccurs="1" minOccurs="1" name="numeroCpf"             type = "gen:numeroCpf_t"/>
+    <xs:element  maxOccurs="1" minOccurs="1" name="transferenciaBancaria" type = "gen:transferenciaBancaria_t"/>
+   </xs:choice>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- dadosPagamentoFolha -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="dadosPagamentoFolha_t">
+	<xs:sequence>
+    <xs:element nillable="false" name="codigoUnidOrcamentaria" type="gen:codigo06_t"/>
+    <xs:element nillable="false" name="numeroEmpenho"          type="gen:numeroEmpenho_t"/>
+    <xs:element nillable="false" name="numeroDocuLiquidacao" type="gen:numeroDocumento_t"/>
+    <xs:element nillable="false" name="numeroDocuPagamento"    type="gen:numeroDocumento_t"/>
+ </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- data -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="data_t">
+	  <xs:restriction base="xs:date">   
+       <xs:minInclusive value="1900-01-01"/>    
+       <xs:maxInclusive value="2021-12-31"/>   
+   </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- dataDecreto -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="dataDecreto_t">
+	  <xs:restriction base="xs:date">   
+       <xs:minInclusive value="2015-01-01"/>    
+       <xs:maxInclusive value="2021-12-31"/>   
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- dataEmisEmpenho -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="dataEmisEmpenho_t">
+	  <xs:restriction base="xs:date">    
+      <xs:minInclusive value="2010-01-01"/>    
+      <xs:maxInclusive value="2021-12-31"/>   
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- dataExerAnteriores -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="dataExerAnteriores_t">
+	  <xs:restriction base="xs:date">    
+      <xs:minInclusive value="2013-01-01"/>    
+      <xs:maxInclusive value="2021-12-31"/>   
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- dataExerAtual -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="dataExerAtual_t">
+	<xs:restriction base="xs:date">
+      <xs:minInclusive value="2021-01-01"/>
+      <xs:maxInclusive value="2021-12-31"/>
+  </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- dataGestao -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="dataGestao_t">
+	  <xs:restriction base="xs:date">    
+       <xs:minInclusive value="2021-01-01"/>    
+       <xs:maxInclusive value="2021-12-31"/>   
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- descricaoObjePrograma -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="descricaoObjePrograma_t">
+	  <xs:restriction base="xs:string">
+       <xs:minLength value="10"/>
+       <xs:maxLength value="150"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- diaMes -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="diaMes_t">
+	  <xs:restriction base="xs:int">
+       <xs:minInclusive value="1"/>
+       <xs:maxInclusive value="31"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- endereco -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="endereco">
+	<xs:sequence>
+    <xs:element nillable="false" name="logradouro"	type="gen:nome_t"/>
+    <xs:element nillable="false" name="numero"			type="gen:numero_t"/>
+    <xs:element nillable="false" name="complemento"	type="gen:nome_t"/>
+    <xs:element nillable="false" name="bairro"			type="gen:nome_t"/>
+    <xs:element nillable="false" name="numeroCep"		type="gen:string20_t"/>
+    <xs:element nillable="false" name="municipio"		type="gen:nome_t"/>
+    <xs:element nillable="false" name="estado"			type="gen:siglaUf_t"/>
+    <xs:element nillable="true"  name="telefoneFixo"		type="gen:string20_t"/>
+    <xs:element nillable="true"  name="telefoneCelular" type="gen:string20_t"/>
+  </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- exercicioAtual -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="exercicioAtual_t">
+	  <xs:restriction base="xs:int">
+        <xs:minInclusive value="2021"/>
+        <xs:maxInclusive value="2021"/>
+    </xs:restriction> 
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- fonteRecurso -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="fonteRecurso_t">
+	<xs:sequence>
+  <xs:element nillable="false" name="ioc"             type="tab:tipoIoc_t"/>
+  <xs:element nillable="false" name="tipoFontRecurso" type="tab:tipoFontRecurso_t"/>
+ <xs:element nillable="false" name="tipoCompFontRecurso"     type="tab:tipoCompFontRecurso_t"/>
+</xs:sequence>
+
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- historico -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="historico_t">
+	  <xs:restriction base="xs:string">
+      <xs:minLength value="50"/>
+      <xs:maxLength value="1000"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- informacoesAlteradas -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="informacoesAlteradas_t">
+	  <xs:choice  minOccurs="0">
+     <xs:element  maxOccurs="1" minOccurs="0" name="atoTipo01" type = "gen:tipoAtoPessoal01_t"/>
+     <xs:element  maxOccurs="1" minOccurs="0" name="atoTipo02" type = "gen:tipoAtoPessoal02_t"/>
+     <xs:element  maxOccurs="1" minOccurs="0" name="atoTipo03" type = "gen:tipoAtoPessoal03_t"/>
+     <xs:element  maxOccurs="1" minOccurs="0" name="atoTipo04" type = "gen:tipoAtoPessoal04_t"/>
+     <xs:element  maxOccurs="1" minOccurs="0" name="atoTipo05" type = "gen:tipoAtoPessoal05_t"/>
+     <xs:element  maxOccurs="1" minOccurs="0" name="atoTipo06" type = "gen:tipoAtoPessoal06_t"/>
+     <xs:element  maxOccurs="1" minOccurs="0" name="atoTipo07" type = "gen:tipoAtoPessoal07_t"/>
+     <xs:element  maxOccurs="1" minOccurs="0" name="atoTipo08" type = "gen:tipoAtoPessoal08_t"/>
+   </xs:choice>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- ioc -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="ioc_t">
+	  <xs:restriction base="xs:string">
+        <xs:enumeration value="1"/>  <!-- Recursos do Exercício Corrente ou Recursos de Exercícios Anteriores Comprometidos -->
+        <xs:enumeration value="2"/>  <!-- Recursos de Exercícios Anteriores Não Comprometidos (Livres) -->
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- numeroDocumento_t -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="letrasNumeros_t">
+	      <xs:restriction base="xs:string">
+          <xs:minLength value="0"/>
+        <xs:maxLength value="44"/>
+      </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- mes -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="mes_t">
+	  <xs:restriction base="xs:int">
+        <xs:minInclusive value="1"/>
+        <xs:maxInclusive value="14"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- naProcLicitatorio -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="naProcLicitatorio_t">
+	<xs:sequence>
+     <xs:element name="numero">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+               <xs:pattern value="[0-9]{6}"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="ano">
+     <xs:simpleType>
+          <xs:restriction base="xs:string">
+                <xs:enumeration value="0000"/>
+                <xs:enumeration value="1993"/> 
+                <xs:enumeration value="1994"/> 
+                <xs:enumeration value="1995"/> 
+                <xs:enumeration value="1996"/> 
+                <xs:enumeration value="1997"/> 
+                <xs:enumeration value="1998"/> 
+                <xs:enumeration value="1999"/> 
+                <xs:enumeration value="2000"/> 
+                <xs:enumeration value="2001"/> 
+                <xs:enumeration value="2002"/> 
+                <xs:enumeration value="2003"/> 
+                <xs:enumeration value="2004"/> 
+                <xs:enumeration value="2005"/> 
+                <xs:enumeration value="2006"/> 
+                <xs:enumeration value="2007"/> 
+                <xs:enumeration value="2008"/>
+                <xs:enumeration value="2009"/>
+                <xs:enumeration value="2010"/>
+                <xs:enumeration value="2011"/>
+                <xs:enumeration value="2012"/>
+                <xs:enumeration value="2013"/>
+                <xs:enumeration value="2014"/>
+                <xs:enumeration value="2015"/>                
+                <xs:enumeration value="2016"/>
+                <xs:enumeration value="2017"/>
+                <xs:enumeration value="2018"/>
+                <xs:enumeration value="2019"/>
+                <xs:enumeration value="2020"/>
+                <xs:enumeration value="2021"/>
+         </xs:restriction>
+     </xs:simpleType>
+    </xs:element>
+ </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- nome -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="nome_t">
+	   <xs:restriction base="xs:string">
+          <xs:minLength value="3"/>
+          <xs:maxLength value="80"/>
+   </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- nomeNaoNulo_t -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="nomeNaoNulo">
+	   <xs:restriction base="xs:string">
+          <xs:minLength value="3"/>
+          <xs:maxLength value="80"/>
+   </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- numero -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="numero_t">
+	  <xs:restriction base="xs:int">
+        <xs:minInclusive value="0"/>
+        <xs:maxInclusive value="99999999"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- numeroCpf -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="numeroCpf_t">
+	  <xs:restriction base="xs:string">
+       <xs:whiteSpace value="preserve"/>
+       <xs:pattern value="[0-9]{11}|[0-9]{14}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- numeroDocumento_t -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="numeroDocumento_t">
+	  <xs:restriction base="xs:string">
+       <xs:whiteSpace value="preserve"/>
+       <xs:maxLength value="44"/>
+      <xs:pattern value="[0-9]+"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- numeroEmpenho -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="numeroEmpenho_t">
+	  <xs:restriction base="xs:string">
+       <xs:whiteSpace value="collapse"/>
+       <xs:pattern value="[0-9]{7}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- numeroLei -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="numeroLei_t">
+	<xs:sequence>
+     <xs:element name="numero">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+               <xs:pattern value="[0-9]{6}"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:element name="ano">
+     <xs:simpleType>
+          <xs:restriction base="xs:string">
+               <xs:pattern value="[0-9]{4}"/>
+          </xs:restriction>
+     </xs:simpleType>
+    </xs:element>
+ </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- percentual -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="percentual_t">
+	  <xs:restriction base="xs:decimal">
+        <xs:minInclusive value="0.00"/>
+        <xs:maxInclusive value="9999.99"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- rg -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="rg_t">
+	  <xs:restriction base="xs:long">
+       <xs:minInclusive value="0"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- siglaUf -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="siglaUf_t">
+	   <xs:restriction base="xs:string"> 
+         <xs:minLength value="2"/>
+         <xs:maxLength value="2"/>
+     </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- simNao -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="simNao_t">
+	  <xs:restriction base="xs:string">
+       <xs:enumeration value="0"/>  <!-- Não -->
+       <xs:enumeration value="1"/>  <!-- Sim -->
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- string06 -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="string06_t">
+	  <xs:restriction base="xs:string">
+       <xs:whiteSpace value="preserve"/>
+        <xs:pattern value="\S+((.|\n)*\S+)*"></xs:pattern>
+         <xs:minLength value="6"/>
+         <xs:maxLength value="6"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- string20 -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="string20_t">
+	  <xs:restriction base="xs:string">
+       <xs:whiteSpace value="collapse"/>
+       <xs:maxLength value="20"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- tipoAtoPessoal01 -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="tipoAtoPessoal01_t">
+	   <xs:sequence>
+       <xs:element nillable="false" name="codigoCargo"            type="gen:codigo08_t"/>
+       <xs:element nillable="false" name="codigoLotacao"          type="gen:codigo15_t"/>
+       <xs:element nillable="false" name="tipoRegiPrevidencia"    type="tab:tipoRegiPrevidencia_t"/>
+       <xs:element nillable="false" name="tipoRegiTrabalho"       type="tab:tipoRegiTrabalho_t"/>
+       <xs:element nillable="false" name="tipoVinculo"            type="tab:tipoVinculo_t"/>
+       <xs:element nillable="false" name="dataNomeacao"           type="gen:data_t"/>
+       <xs:element nillable="false" name="dataExercicio"          type="gen:data_t"/>
+       <xs:element nillable="false" name="dataPosse"           	  type="gen:data_t"/>
+       <xs:element nillable="false" name="numeroEdital"        	  type="gen:numeroLei_t"/>
+     </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- tipoAtoPessoal02 -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="tipoAtoPessoal02_t">
+	   <xs:sequence>
+       <xs:element nillable="false" name="codigoLotacao" type="gen:codigo15_t"/>
+     </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- tipoAtoPessoal03 -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="tipoAtoPessoal03_t">
+	   <xs:sequence>
+        <xs:element nillable="false" name="tipoRegiPrevidencia" type="tab:tipoRegiPrevidencia_t"/>
+     </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- tipoAtoPessoal04 -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="tipoAtoPessoal04_t">
+	   <xs:sequence>
+        <xs:element nillable="false" name="tipoRegiTrabalho" type="tab:tipoRegiTrabalho_t"/>
+     </xs:sequence>   
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- tipoAtoPessoal05 -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="tipoAtoPessoal05_t">
+	   <xs:sequence>
+        <xs:element nillable="false" name="codigoCargo" type="gen:codigo08_t"/>
+     </xs:sequence> 
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- tipoAtoPessoal06 -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="tipoAtoPessoal06_t">
+		    <xs:sequence>
+        <xs:element nillable="false" name="matricula"              type="gen:codigo15_t"/>
+        <xs:element nillable="false" name="cpfServidor"            type="gen:numeroCpf_t"/>
+        <xs:element nillable="false" name="tipoVinculo"            type="tab:tipoVinculo_t"/>
+        <xs:element nillable="false" name="tipoRelaParentesco"     type="tab:tipoRelaParentesco_t"/>
+        <xs:element nillable="false" name="tipoRegiPrevidencia"    type="tab:tipoRegiPrevidencia_t"/>
+       <xs:element nillable="false" name="numeroDecisaoJudicial"	 type="gen:numero_t"/>
+     </xs:sequence> 
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- tipoAtoPessoal07 -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="tipoAtoPessoal07_t">
+	   <xs:sequence>
+        <xs:element nillable="false" name="tipoMotiInativacao"     type="tab:tipoMotiInativacao_t"/>
+       <xs:element  nillable="false" name="numeroDecisaoJudicial"  type="gen:numero_t"/>
+     </xs:sequence>   
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- tipoAtoPessoal08 -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="tipoAtoPessoal08_t">
+	   <xs:sequence>
+       <xs:element  nillable="false" name="numeroDecisaoJudicial"    type="gen:numero_t"/>
+       <xs:element  nillable="false" name="motivoDecisaoJudicial"    type="gen:nome_t"/>
+     </xs:sequence>   
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- transferenciaBancaria -->
+  <!-- ==================================================================================== -->
+  <xs:complexType name="transferenciaBancaria_t">
+	  <xs:sequence>
+     <xs:element nillable="true" name="codigoBancCredConta" type="gen:codigo03_t"/>
+     <xs:element nillable="true" name="codigoAgenCredConta" type="gen:codigoAgencia_t"/>
+     <xs:element nillable="true" name="naContBancCredito"   type="gen:string20_t"/>
+   </xs:sequence>
+  </xs:complexType>
+
+  <!-- ==================================================================================== -->
+  <!-- valor -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="valor_t">
+	  <xs:restriction base="xs:decimal">
+      <xs:minInclusive value="0.00"/>
+      <xs:maxInclusive value="9999999999999999.00"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- valorNegativo -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="valorNegativo_t">
+	<xs:restriction base="xs:decimal">
+      <xs:minInclusive value="-9999999999999999.00"/>
+      <xs:maxInclusive value="9999999999999999.00"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ==================================================================================== -->
+  <!-- versaoXml -->
+  <!-- ==================================================================================== -->
+  <xs:simpleType name="versaoXml_t">
+	  <xs:restriction base="xs:int">
+       <xs:minInclusive value="0"/>
+       <xs:maxInclusive value="99"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>

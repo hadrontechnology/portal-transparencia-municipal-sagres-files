@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--FIORILLI SOC. CIVIL LTDA - SOFTWARE-->
+<!--ENVIADO POR: Fabio de Almeida-->
+<!--VERSAO TCE-PI: 8.21.25.36-->
+<!--VERSAO DIARIO RAZAO: 8.21.25.1744-->
+<!--VERSAO EVENTOS: 1899-->
+<aux:CadastrosAuxiliares xmlns:aux="http://www.tce.pi.gov.br/sagres2019/xml/cadastrosAuxiliares" xmlns:gen="http://www.tce.pi.gov.br/sagres2019/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2019/xml/tabelasInternas">
+  <aux:PrestacaoContas>
+    <aux:codigoUnidGestora>201133</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>PREFEITURA MUNICIPAL MORRO CABEÇA NO TEMPO</aux:nomeUnidGestora>
+    <aux:cpfContador>27675215893</aux:cpfContador>
+    <aux:cpfGestor>16939900837</aux:cpfGestor>
+    <aux:anoReferencia>2019</aux:anoReferencia>
+    <aux:mesReferencia>10</aux:mesReferencia>
+    <aux:versaoXml>0</aux:versaoXml>
+    <aux:diaInicPresContas>01</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>31</aux:diaFinaPresContas>
+  </aux:PrestacaoContas>
+  <aux:Decreto>
+    <aux:numeroDecreto>
+      <gen:numero>000010</gen:numero>
+      <gen:ano>2019</gen:ano>
+    </aux:numeroDecreto>
+    <aux:numeroLeiQueAutorizou>
+      <gen:numero>000007</gen:numero>
+      <gen:ano>2019</gen:ano>
+    </aux:numeroLeiQueAutorizou>
+    <aux:dataDecreto>2019-10-01</aux:dataDecreto>
+    <aux:dataPublDecreto>2019-10-01</aux:dataPublDecreto>
+    <aux:tipoPublicacao>1</aux:tipoPublicacao>
+  </aux:Decreto>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>000</aux:codigoBanco>
+    <aux:codigoAgencia>000000</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000000000</aux:numeroContBancaria>
+    <aux:tipoContBancaria>0</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010840</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000111111</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010841</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000113794</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010842</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000114278</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010843</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000116904</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010844</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000013130X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010845</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000132268</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010846</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000013242X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010847</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000132519</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010848</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000133329</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010849</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000134007</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010850</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000135127</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010851</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000136468</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010852</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000137138</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010853</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000137340</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010854</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000140708</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010855</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000148822</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010856</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000149594</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010857</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000150207</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010858</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000150738</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010859</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000151564</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010860</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000152269</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010861</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000153516</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010862</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000154512</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010863</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000156647</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010864</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000156655</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010865</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000158119</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010866</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000015864X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010867</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000160261</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010868</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000016027X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010869</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000160288</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010870</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000160296</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010871</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000016030X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010872</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000160725</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010873</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000160733</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010874</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000160741</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010875</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000016075X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010876</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000167029</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010877</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000167304</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010878</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000170003</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010879</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000017551X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010880</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000018098X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010881</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000018330X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010882</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000183679</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010883</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190357</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010884</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190799</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010885</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190802</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010886</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190810</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010887</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190829</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010888</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190837</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010889</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000192279</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010890</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000194328</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010891</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000194700</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010892</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000196320</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010893</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000197378</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010894</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000197769</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010895</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000199532</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010896</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000201774</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010897</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000203394</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010898</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000209511</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010899</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000209538</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010900</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000209597</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010901</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000209651</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010902</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000021034X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010903</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000211729</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010904</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000211796</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010905</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000211869</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010906</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000217727</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010907</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000218103</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010908</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000220647</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010909</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000002211X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010910</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000022128</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010911</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000226076</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010912</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000226521</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010913</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000230693</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010914</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000238570</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010915</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000023876</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010916</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000002831449</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010917</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000400033</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010918</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000056383</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010919</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000580422</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010920</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000580678</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010921</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>002780</aux:codigoAgencia>
+    <aux:numeroContBancaria>000006470781</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010922</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>002780</aux:codigoAgencia>
+    <aux:numeroContBancaria>000006470784</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010923</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000064734</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010924</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000070661</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010925</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000007067X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010926</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000078476</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010927</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000083038</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010928</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>002004</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000009837</aux:numeroContBancaria>
+    <aux:tipoContBancaria>1</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010929</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000113794</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010930</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000116904</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010931</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000132268</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010932</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000135127</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010933</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000136468</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010934</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000137340</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010935</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000139904</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010936</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000140708</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010937</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000148822</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010938</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000150738</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010939</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000158119</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010940</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000015864X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010941</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000016027X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010942</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000016030X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010943</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000160725</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010944</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000160733</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010945</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000016075X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010946</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000167029</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010947</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000167304</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010948</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000017551X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010949</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000018330X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010950</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000183679</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010951</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190357</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010952</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190799</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010953</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190802</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010954</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190810</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010955</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190822</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010956</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190829</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010957</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000190837</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010958</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000192279</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010959</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000194328</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010960</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000019470</aux:numeroContBancaria>
+    <aux:tipoContBancaria>5</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010961</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000019509X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010962</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000196320</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010963</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000197378</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010964</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000201774</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010965</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000203394</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010966</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000209511</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010967</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000209538</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010968</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000209597</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010969</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000209651</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010970</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000021034X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010971</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000211729</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010972</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000211796</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010973</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000211869</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010974</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000217727</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010975</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000218103</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010976</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000220647</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010977</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000002211X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010978</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000022128</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010979</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000226076</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010980</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000226521</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010981</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000230693</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010982</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000238570</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010983</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000023876</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010984</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000056383</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010985</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000580422</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010986</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000580422</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010987</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>104</aux:codigoBanco>
+    <aux:codigoAgencia>002780</aux:codigoAgencia>
+    <aux:numeroContBancaria>000006470784</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010988</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>00000007067X</aux:numeroContBancaria>
+    <aux:tipoContBancaria>3</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010989</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000078476</aux:numeroContBancaria>
+    <aux:tipoContBancaria>2</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010990</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:ConciliacaoBancaria>
+    <aux:codigoBanco>001</aux:codigoBanco>
+    <aux:codigoAgencia>001209</aux:codigoAgencia>
+    <aux:numeroContBancaria>000000083038</aux:numeroContBancaria>
+    <aux:tipoContBancaria>6</aux:tipoContBancaria>
+    <aux:numeroSequencial>00010991</aux:numeroSequencial>
+    <aux:tipoConcBancaria>1</aux:tipoConcBancaria>
+    <aux:descricaoSobrValoConciliado>SALDO EM 31 10 2019 CONFORME EXTRATO BANCARIO COMP</aux:descricaoSobrValoConciliado>
+    <aux:dataFatoConciliado>2019-10-31</aux:dataFatoConciliado>
+    <aux:numeroChequeDocumento>000000</aux:numeroChequeDocumento>
+    <aux:numeroDocDebiAutomatico>00000000000</aux:numeroDocDebiAutomatico>
+    <aux:valorConciliado>0000000000000.00</aux:valorConciliado>
+  </aux:ConciliacaoBancaria>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>00837062837</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ADEMAR MARQUES DOS SANTOS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>AV. ABRAAO ALVES</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>00863895301</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>LUCIMAURA MARQUES DIAS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>NAO INFORMADO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>01818633329</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>MARCIA PEREIRA DA SILVA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA DA GLORIA</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>02667545389</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>MARISELIA MENDES DE OLIVEIRA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>DESEJADO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RURAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>03706342332</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>LEIDIMAR DUARTE DOS SANTOS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>NAO INFORMADO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>03848367394</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>LUZIENE L SENA ALVES</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>POVOADO CRUZ</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RURAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>04624749332</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>JEOVAM PEREIRA DOS SANTOS FILHO</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>AV BARAO DO PARAIM</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64960000</gen:numeroCep>
+      <gen:municipio>CURIMATA</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>05046194384</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>SERGIO PEREIRA DE SOUSA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA JOAO FALCAO</gen:logradouro>
+      <gen:numero>217</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64920000</gen:numeroCep>
+      <gen:municipio>CRISTINO CASTRO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>06041284360</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>FLOURISVALDO DUARTE MAIA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>AV ABRAAO ALVES</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CIDADE NOVA</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>07241974352</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>FATIMA RODRIGUES DOS SANTOS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>LOC. BERNARDO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RURAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>14497197832</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>JACONIAS MENDES FERNANDES</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>AVENIDA BOM JESUS</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>17539408000139</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>CRUZ BRITO &amp; BANDEIRA PERES LTDA EPP</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA ALDEMAR MENDES</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64280000</gen:numeroCep>
+      <gen:municipio>CAMPO MAIOR</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>17701893865</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>DOMINGOS JOSE ALVES</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>NAO INFORMADO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>NAO INFORMADO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>26872724000119</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>META MARIA DO SOCORRO SOUSA SILVA AMORIM</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>R. IPIRANGA</gen:logradouro>
+      <gen:numero>814</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>SINCERINO</gen:bairro>
+      <gen:numeroCep>64900000</gen:numeroCep>
+      <gen:municipio>CORRENTE</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>2</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>27091793854</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ANTONIO ALVES DA SILVA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>POVOADO DESEJADO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RURAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>29898567813</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ROBERTO PEREIRA DUARTE</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA IZIDIO BATISTA DE FIGUEIREDO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>39931442875</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>JARDIANES CONCEICAO DOS SANTOS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA IZIDIO BATISTA DE FIGUEREDO</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CIDADE NOVA</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>46811109149</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>ARMANDO DIAS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA ALTO SAO BRAZ</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>92109578149</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>EDMAR SIMOES DOS SANTOS</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>RUA DA ALEGRIA</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>00000000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>94716820378</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>RICARDO DA SILVA SIQUEIRA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>TRAVESSA SAMUEL SOUSA</gen:logradouro>
+      <gen:numero>02</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64920000</gen:numeroCep>
+      <gen:municipio>CRISTINO CASTRO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+  <aux:Fornecedor>
+    <aux:cpfCnpjCredor>99995158353</aux:cpfCnpjCredor>
+    <aux:nomeDenoOuRazaJuridica>CLORINDA MARQUES DE SOUSA</aux:nomeDenoOuRazaJuridica>
+    <aux:endereco>
+      <gen:logradouro>POVOADO CRUZ</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>SEM COMPLEMENTO</gen:complemento>
+      <gen:bairro>ZONA RURAL</gen:bairro>
+      <gen:numeroCep>64968000</gen:numeroCep>
+      <gen:municipio>MORRO CABECA NO TEMPO</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo>NAO INFORMADO</gen:telefoneFixo>
+      <gen:telefoneCelular>NAO INFORMADO</gen:telefoneCelular>
+    </aux:endereco>
+    <aux:tipoCredor>1</aux:tipoCredor>
+  </aux:Fornecedor>
+</aux:CadastrosAuxiliares>

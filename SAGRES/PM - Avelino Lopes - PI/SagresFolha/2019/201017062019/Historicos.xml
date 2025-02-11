@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><his:historicos xmlns:his="http://www.tce.pi.gov.br/sagres2019/xml/historicos" xmlns:gen="http://www.tce.pi.gov.br/sagres2019/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2019/xml/tabelasInternas" xmlns:aux="http://www.tce.pi.gov.br/sagres2019/xml/cadastrosAuxiliaresSagresFolha">
+  <his:PrestacaoContas>
+    <aux:codigoUnidGestora>201017</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>PREFEITURA MUNICIPAL DE AVELINO LOPES</aux:nomeUnidGestora>
+    <aux:cpfContador>72674350334</aux:cpfContador>
+    <aux:cpfGestor>64378985853</aux:cpfGestor>
+    <aux:anoReferencia>2019</aux:anoReferencia>
+    <aux:mesReferencia>06</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>01</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>30</aux:diaFinaPresContas>
+  </his:PrestacaoContas>
+    <his:HistoricoPessoal>
+       <his:matricula>000000000001508</his:matricula>
+       <his:cpfServidor>57765596349</his:cpfServidor>
+       <his:tipoEscolaridade>3</his:tipoEscolaridade>
+       <his:dataAlteracao>2019-06-30</his:dataAlteracao>
+       <his:endereco>
+           <gen:logradouro>AVN EUTIMIO ALVES</gen:logradouro>
+           <gen:numero>0</gen:numero>
+           <gen:complemento>SN        </gen:complemento>
+           <gen:bairro>CENTRO                                  </gen:bairro>
+           <gen:numeroCep>64965000</gen:numeroCep>
+           <gen:municipio>AVELINO LOPES</gen:municipio>
+           <gen:estado>PI</gen:estado>
+           <gen:telefoneFixo>          </gen:telefoneFixo>
+           <gen:telefoneCelular>          </gen:telefoneCelular>
+       </his:endereco>
+       <his:dadosBancarios>
+           <gen:codigoBanco>001</gen:codigoBanco>
+           <gen:codigoAgencia>012092</gen:codigoAgencia>
+           <gen:numeroContBancaria>000000000231185</gen:numeroContBancaria>
+       </his:dadosBancarios>
+    </his:HistoricoPessoal>
+  <his:HistoricoFuncional>
+       <his:matricula>000000000001508</his:matricula>
+    <his:cpfServidor>57765596349</his:cpfServidor>
+    <his:tipoAtoPessoal>1001</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2019-06-04</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo01>
+        <gen:codigoCargo>00000049</gen:codigoCargo>
+        <gen:codigoLotacao>000000000010015</gen:codigoLotacao>
+        <gen:tipoRegiPrevidencia>1</gen:tipoRegiPrevidencia>
+        <gen:tipoRegiTrabalho>0</gen:tipoRegiTrabalho>
+        <gen:tipoVinculo>2</gen:tipoVinculo>
+        <gen:dataNomeacao>2019-06-04</gen:dataNomeacao>
+        <gen:dataExercicio>2019-06-04</gen:dataExercicio>
+        <gen:dataPosse>2019-06-04</gen:dataPosse>
+        <gen:numeroEdital>
+          <gen:numero>000000</gen:numero>
+          <gen:ano>2019</gen:ano>
+        </gen:numeroEdital>
+      </gen:atoTipo01>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000001498</his:matricula>
+    <his:cpfServidor>42897499842</his:cpfServidor>
+    <his:tipoAtoPessoal>2009</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2019-06-30</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000001500</his:matricula>
+    <his:cpfServidor>09207099403</his:cpfServidor>
+    <his:tipoAtoPessoal>2009</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2019-06-30</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000002042</his:matricula>
+    <his:cpfServidor>02968478877</his:cpfServidor>
+    <his:tipoAtoPessoal>2005</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2019-06-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+</his:historicos>

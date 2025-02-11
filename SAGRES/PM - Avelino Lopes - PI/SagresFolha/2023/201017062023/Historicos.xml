@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--********************************************-->
+<!--* FIORILLI SOFTWARE LTDA                   *-->
+<!--* SISTEMA INTEGRADO DE PESSOAL             *-->
+<!--* GERADO 31/07/2023 08:44:21               *-->
+<!--* VERSAO 7.5.369.27.16465/R                *-->
+<!--* USUARIO PC EMANOEL                       *-->
+<!--* DOMINIO DESKTOP-M7BKEIV                  *-->
+<!--* NOME PC DESKTOP-M7BKEIV                  *-->
+<!--* USUARIO SISTEMA EMANOEL                  *-->
+<!--********************************************-->
+<his:historicos xmlns:his="http://www.tce.pi.gov.br/sagres2023/xml/historicos" xmlns:aux="http://www.tce.pi.gov.br/sagres2023/xml/cadastrosAuxiliaresSagresFolha" xmlns:gen="http://www.tce.pi.gov.br/sagres2023/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2023/xml/tabelasInternas">
+  <his:PrestacaoContas>
+    <aux:codigoUnidGestora>201017</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>P. M. DE AVELINO LOPES</aux:nomeUnidGestora>
+    <aux:cpfContador>00000000000</aux:cpfContador>
+    <aux:cpfGestor>01726047377</aux:cpfGestor>
+    <aux:anoReferencia>2023</aux:anoReferencia>
+    <aux:mesReferencia>6</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>1</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>30</aux:diaFinaPresContas>
+  </his:PrestacaoContas>
+  <his:HistoricoPessoal>
+    <his:matricula>000000000200626</his:matricula>
+    <his:cpfServidor>03033672370</his:cpfServidor>
+    <his:tipoEscolaridade>3</his:tipoEscolaridade>
+    <his:dataAlteracao>2023-06-01</his:dataAlteracao>
+    <his:endereco>
+      <gen:logradouro>RUA SANTA ERCILIA</gen:logradouro>
+      <gen:numero>1</gen:numero>
+      <gen:complemento>Sem Complemento</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64965000</gen:numeroCep>
+      <gen:municipio>Avelino Lopes</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo></gen:telefoneFixo>
+      <gen:telefoneCelular></gen:telefoneCelular>
+    </his:endereco>
+    <his:dadosBancarios>
+      <gen:codigoBanco>001</gen:codigoBanco>
+      <gen:codigoAgencia>1209</gen:codigoAgencia>
+      <gen:numeroContBancaria>456781</gen:numeroContBancaria>
+    </his:dadosBancarios>
+  </his:HistoricoPessoal>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000200626</his:matricula>
+    <his:cpfServidor>03033672370</his:cpfServidor>
+    <his:tipoAtoPessoal>11021</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2023-06-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo01>
+        <gen:codigoCargo>00000243</gen:codigoCargo>
+        <gen:codigoLotacao>000000000000351</gen:codigoLotacao>
+        <gen:tipoRegiPrevidencia>1</gen:tipoRegiPrevidencia>
+        <gen:tipoRegiTrabalho>0</gen:tipoRegiTrabalho>
+        <gen:tipoVinculo>2</gen:tipoVinculo>
+        <gen:dataNomeacao>2023-06-01</gen:dataNomeacao>
+        <gen:dataExercicio>2023-06-01</gen:dataExercicio>
+        <gen:dataPosse>2023-06-01</gen:dataPosse>
+        <gen:numeroEdital>
+          <gen:numero>000000</gen:numero>
+          <gen:ano>2023</gen:ano>
+        </gen:numeroEdital>
+      </gen:atoTipo01>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000200624</his:matricula>
+    <his:cpfServidor>04296446398</his:cpfServidor>
+    <his:tipoAtoPessoal>21031</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2023-06-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas/>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000200626</his:matricula>
+    <his:cpfServidor>03033672370</his:cpfServidor>
+    <his:tipoAtoPessoal>93041</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2023-06-29</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo02>
+        <gen:codigoLotacao>000000000000351</gen:codigoLotacao>
+      </gen:atoTipo02>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000100146</his:matricula>
+    <his:cpfServidor>97407070334</his:cpfServidor>
+    <his:tipoAtoPessoal>93012</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2023-06-28</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo05>
+        <gen:codigoCargo>00000364</gen:codigoCargo>
+      </gen:atoTipo05>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+</his:historicos>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--********************************************-->
+<!--* FIORILLI SOFTWARE LTDA                   *-->
+<!--* SISTEMA INTEGRADO DE PESSOAL             *-->
+<!--* GERADO 23/12/2022 21:08:26               *-->
+<!--* VERSAO 7.5.354.35.16024/R                *-->
+<!--* USUARIO PC EMANOEL                       *-->
+<!--* DOMINIO DESKTOP-M7BKEIV                  *-->
+<!--* NOME PC DESKTOP-M7BKEIV                  *-->
+<!--* USUARIO SISTEMA EMANOEL                  *-->
+<!--********************************************-->
+<his:historicos xmlns:his="http://www.tce.pi.gov.br/sagres2022/xml/historicos" xmlns:aux="http://www.tce.pi.gov.br/sagres2022/xml/cadastrosAuxiliaresSagresFolha" xmlns:gen="http://www.tce.pi.gov.br/sagres2022/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2022/xml/tabelasInternas">
+  <his:PrestacaoContas>
+    <aux:codigoUnidGestora>201017</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>P. M. DE AVELINO LOPES</aux:nomeUnidGestora>
+    <aux:cpfContador>00000000000</aux:cpfContador>
+    <aux:cpfGestor>01726047377</aux:cpfGestor>
+    <aux:anoReferencia>2022</aux:anoReferencia>
+    <aux:mesReferencia>10</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>1</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>31</aux:diaFinaPresContas>
+  </his:PrestacaoContas>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000200605</his:matricula>
+    <his:cpfServidor>07648908328</his:cpfServidor>
+    <his:tipoAtoPessoal>21021</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2022-10-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas/>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000200606</his:matricula>
+    <his:cpfServidor>36499778850</his:cpfServidor>
+    <his:tipoAtoPessoal>93041</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2022-10-24</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo02>
+        <gen:codigoLotacao>000000000000351</gen:codigoLotacao>
+      </gen:atoTipo02>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+</his:historicos>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><his:historicos xmlns:his="http://www.tce.pi.gov.br/sagres2020/xml/historicos" xmlns:gen="http://www.tce.pi.gov.br/sagres2020/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2020/xml/tabelasInternas" xmlns:aux="http://www.tce.pi.gov.br/sagres2020/xml/cadastrosAuxiliaresSagresFolha">
+  <his:PrestacaoContas>
+    <aux:codigoUnidGestora>201017</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>PREFEITURA MUNICIPAL DE AVELINO LOPES</aux:nomeUnidGestora>
+    <aux:cpfContador>72674350334</aux:cpfContador>
+    <aux:cpfGestor>64378985853</aux:cpfGestor>
+    <aux:anoReferencia>2020</aux:anoReferencia>
+    <aux:mesReferencia>06</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>01</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>30</aux:diaFinaPresContas>
+  </his:PrestacaoContas>
+    <his:HistoricoPessoal>
+       <his:matricula>000000000001526</his:matricula>
+       <his:cpfServidor>01224822390</his:cpfServidor>
+       <his:tipoEscolaridade>3</his:tipoEscolaridade>
+       <his:dataAlteracao>2020-06-30</his:dataAlteracao>
+       <his:endereco>
+           <gen:logradouro>AVN SERGIO GAMA</gen:logradouro>
+           <gen:numero>0</gen:numero>
+           <gen:complemento>SN        </gen:complemento>
+           <gen:bairro>CENTRO                                  </gen:bairro>
+           <gen:numeroCep>64965000</gen:numeroCep>
+           <gen:municipio>AVELINO LOPES</gen:municipio>
+           <gen:estado>PI</gen:estado>
+           <gen:telefoneFixo>          </gen:telefoneFixo>
+           <gen:telefoneCelular>          </gen:telefoneCelular>
+       </his:endereco>
+       <his:dadosBancarios>
+           <gen:codigoBanco>001</gen:codigoBanco>
+           <gen:codigoAgencia>012092</gen:codigoAgencia>
+           <gen:numeroContBancaria>000000000217573</gen:numeroContBancaria>
+       </his:dadosBancarios>
+    </his:HistoricoPessoal>
+  <his:HistoricoFuncional>
+       <his:matricula>000000000001526</his:matricula>
+    <his:cpfServidor>01224822390</his:cpfServidor>
+    <his:tipoAtoPessoal>1001</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2020-06-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo01>
+        <gen:codigoCargo>00000058</gen:codigoCargo>
+        <gen:codigoLotacao>000000000010200</gen:codigoLotacao>
+        <gen:tipoRegiPrevidencia>1</gen:tipoRegiPrevidencia>
+        <gen:tipoRegiTrabalho>0</gen:tipoRegiTrabalho>
+        <gen:tipoVinculo>2</gen:tipoVinculo>
+        <gen:dataNomeacao>2020-06-01</gen:dataNomeacao>
+        <gen:dataExercicio>2020-06-01</gen:dataExercicio>
+        <gen:dataPosse>2020-06-01</gen:dataPosse>
+        <gen:numeroEdital>
+          <gen:numero>000000</gen:numero>
+          <gen:ano>2020</gen:ano>
+        </gen:numeroEdital>
+      </gen:atoTipo01>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+</his:historicos>

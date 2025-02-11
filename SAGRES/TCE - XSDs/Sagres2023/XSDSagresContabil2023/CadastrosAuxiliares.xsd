@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.tce.pi.gov.br/sagres2022/xml/cadastrosAuxiliares" version="1.0" xml:lang="pt-BR"
+	 xmlns:gen="http://www.tce.pi.gov.br/sagres2022/xml/genericos"
+	 xmlns:tab="http://www.tce.pi.gov.br/sagres2022/xml/tabelasInternas"
+	 xmlns:aux="http://www.tce.pi.gov.br/sagres2022/xml/cadastrosAuxiliares"
+	 xmlns:xs= "http://www.w3.org/2001/XMLSchema">
+
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2022/xml/genericos"       schemaLocation="genericos.xsd"/>
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2022/xml/tabelasInternas"      schemaLocation="tabelasInternas.xsd"/>
+
+	 <!-- Namespaces: Conteudo: Descricao: Arquivos de cadastros gerais -->
+	 <xs:annotation>
+		<xs:documentation>
+			<Data>Wed Jan 11 10:57:49 GFT 2023 </Data>
+			<Descricao>Descricao: Arquivos de cadastros gerais </Descricao>
+			<Justificativa>Justificativa: Criaçâo do modelo inicial para @)!$</Justificativa>
+			<Versao>1.0</Versao>
+			</xs:documentation>
+	</xs:annotation>
+
+	 <!-- ============================================================================================== -->
+	 <!--ORÇAMENTO(1) -->
+	 <xs:complexType name="Orcamento_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="anoVigeLoa" type="gen:exercicioAtual_t"/>
+			 <xs:element nillable="false" name="dataPublLoa" type="gen:dataExerAnteriores_t"/>
+			 <xs:element nillable="false" name="percentualAutoSuplLoa" type="gen:percentual_t"/>
+			 <xs:element nillable="true" name="numeroLoa" type="gen:numero_t"/>
+			 <xs:element nillable="true" name="dataPublLdo" type="gen:dataExerAnteriores_t"/>
+			 <xs:element nillable="true" name="numeroLdo" type="gen:numeroLei_t"/>
+			 <xs:element nillable="false" name="numeroLeiPpa" type="gen:numeroLei_t"/>
+			 <xs:element nillable="false" name="dataPublPpa" type="gen:dataExerAnteriores_t"/>
+			 <xs:element nillable="false" name="valorRecePrevista" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="valorDespFixada" type="gen:valor_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--UNIDADE ORÇAMENTÁRIA(2) -->
+	 <xs:complexType name="UnidadeOrcamentaria_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoUnidOrcamentaria" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="nomeUnidOrcamentaria" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="tipoUnidOrcamentaria" type="tab:tipoUnidOrcamentaria_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--PROGRAMA(3) -->
+	 <xs:complexType name="Programa_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoPrograma" type="gen:codigo04_t"/>
+			 <xs:element nillable="false" name="denominacaoPrograma" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="descricaoObjePrograma" type="gen:descricaoObjePrograma_t"/>
+			 <xs:element nillable="false" name="valorPrevDespCorrPpa" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="valorPrevDespCapiPpa" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="tipoPrograma" type="tab:tipoPrograma_t"/>
+			 <xs:element nillable="false" name="numeroLeiCriaAltePpa" type="gen:numeroLei_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--AÇÃO(4) -->
+	 <xs:complexType name="Acao_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoAcao" type="gen:codigo04_t"/>
+			 <xs:element nillable="false" name="denominacaoAcao" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="tipoAcao" type="tab:tipoAcao_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--CONTAS BANCÁRIAS(5) -->
+	 <xs:complexType name="CadastroContaBancaria_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoBanco" type="tab:codigoBanco_t"/>
+			 <xs:element nillable="false" name="codigoAgencia" type="gen:codigo04_t"/>
+			 <xs:element nillable="false" name="numeroContBancaria" type="gen:codigo10_t"/>
+			 <xs:element nillable="false" name="tipoContBancaria" type="tab:tipoContBancaria_t"/>
+			 <xs:element nillable="false" name="descricaoContBancaria" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="digitoVerificador" type="gen:digitoVerificador_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--DECRETO(6) -->
+	 <xs:complexType name="Decreto_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="numeroDecreto" type="gen:numeroLei_t"/>
+			 <xs:element nillable="false" name="numeroLeiQueAutorizou" type="gen:numeroLei_t"/>
+			 <xs:element nillable="false" name="dataDecreto" type="gen:dataDecreto_t"/>
+			 <xs:element nillable="false" name="dataPublDecreto" type="gen:dataDecreto_t"/>
+			 <xs:element nillable="false" name="tipoPublicacao" type="tab:tipoPublicacao_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--CONCILIAÇÃO BANCÁRIA(7) -->
+	 <xs:complexType name="ConciliacaoBancaria_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoBanco" type="tab:codigoBanco_t"/>
+			 <xs:element nillable="false" name="codigoAgencia" type="gen:codigo04_t"/>
+			 <xs:element nillable="false" name="numeroContBancaria" type="gen:codigo10_t"/>
+			 <xs:element nillable="false" name="tipoContBancaria" type="tab:tipoContBancaria_t"/>
+			 <xs:element nillable="false" name="numeroSequencial" type="gen:numero_t"/>
+			 <xs:element nillable="false" name="tipoConcBancaria" type="tab:tipoConcBancaria_t"/>
+			 <xs:element nillable="false" name="descricaoSobrValoConciliado" type="gen:historico_t"/>
+			 <xs:element nillable="false" name="dataFatoConciliado" type="gen:dataExerAtual_t"/>
+			 <xs:element nillable="false" name="numeroChequeDocumento" type="gen:numero_t"/>
+			 <xs:element nillable="false" name="numeroDocDebiAutomatico" type="gen:string20_t"/>
+			 <xs:element nillable="false" name="valorConciliado" type="gen:valor_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--CREDOR/FORNECEDOR(8) -->
+	 <xs:complexType name="Fornecedor_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="cpfCnpjCredor" type="gen:cpfCnpjCredor_t"/>
+			 <xs:element nillable="false" name="nomeDenoOuRazaJuridica" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="endereco" type="gen:endereco"/>
+			 <xs:element nillable="false" name="tipoCredor" type="tab:tipoCredor_t"/>
+			 <xs:element nillable="false" name="identificadorFornEstrangeiro" type="gen:letrasNumeros_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--AGENTE POLÍTICO(9) -->
+	 <xs:complexType name="AgentePolitico_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="cpfAgenPolitico" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="true" name="numeroRgAgenPolitico" type="gen:rg_t"/>
+			 <xs:element nillable="true" name="orgaoExpedidor" type="gen:string20_t"/>
+			 <xs:element nillable="false" name="nome" type="gen:nome_t"/>
+			 <xs:element nillable="true" name="email" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="tipoAgenPolitico" type="tab:tipoAgenPolitico_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--ORDENADOR(10) -->
+	 <xs:complexType name="Ordenador_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="cpfAgenPolitico" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="codigoUnidOrcamentaria" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="numeroAtoQueNomeOrdenador" type="gen:numeroLei_t"/>
+			 <xs:element nillable="false" name="dataInicOuFimVigencia" type="gen:dataGestao_t"/>
+			 <xs:element nillable="false" name="tipoDataVigencia" type="tab:tipoDataVigencia_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--GESTOR(11) -->
+	 <xs:complexType name="Gestor_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="cpfAgenPolitico" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="codigoUnidOrcamentaria" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="numeroAtoQueNomeGestor" type="gen:numeroLei_t"/>
+			 <xs:element nillable="false" name="tipoDataVigencia" type="tab:tipoDataVigencia_t"/>
+			 <xs:element nillable="false" name="dataInicOuFimVigencia" type="gen:dataGestao_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--PRESTACAOCONTAS(12) -->
+	 <xs:complexType name="PrestacaoContas_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoUnidGestora" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="nomeUnidGestora" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="cpfContador" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="cpfGestor" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="anoReferencia" type="gen:exercicioAtual_t"/>
+			 <xs:element nillable="false" name="mesReferencia" type="gen:mes_t"/>
+			 <xs:element nillable="false" name="versaoXml" type="gen:versaoXml_t"/>
+			 <xs:element nillable="false" name="diaInicPresContas" type="gen:diaMes_t"/>
+			 <xs:element nillable="false" name="diaFinaPresContas" type="gen:diaMes_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--METAS FISCAIS LDO(13) -->
+	 <xs:complexType name="MetasFisccaisLDO_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="metaResuPrimEmValoCorrente" type="gen:valorNegativo_t"/>
+			 <xs:element nillable="false" name="metaResuNomiEmValoCorrente" type="gen:valorNegativo_t"/>
+			 <xs:element nillable="false" name="metaDiviConsLiquLdo" type="gen:valorNegativo_t"/>
+			 <xs:element nillable="false" name="metaDiviPublConsLdo" type="gen:valorNegativo_t"/>
+			 <xs:element nillable="false" name="receitaValoCorrLdo" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="despesaValoCorrLdo" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="numeroAnoLeiLdo" type="gen:numeroLei_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!-- Cadastros auliliares -->
+	 <xs:complexType name="listaCadastrosauxiliares_t">
+		 <xs:sequence>
+			 <xs:element  maxOccurs="1" minOccurs="1" name="PrestacaoContas" type = "aux:PrestacaoContas_t"/>
+			 <xs:element  maxOccurs="1" minOccurs="0" name="Orcamento" type = "aux:Orcamento_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="UnidadeOrcamentaria" type = "aux:UnidadeOrcamentaria_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Programa" type = "aux:Programa_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Acao" type = "aux:Acao_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="CadastroContaBancaria" type = "aux:CadastroContaBancaria_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Decreto" type = "aux:Decreto_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="ConciliacaoBancaria" type = "aux:ConciliacaoBancaria_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Fornecedor" type = "aux:Fornecedor_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="AgentePolitico" type = "aux:AgentePolitico_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Ordenador" type = "aux:Ordenador_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Gestor" type = "aux:Gestor_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="MetasFisccaisLDO" type = "aux:MetasFisccaisLDO_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!-- ========================================================================= -->
+	<!-- root -->
+	<xs:element name="CadastrosAuxiliares" type="aux:listaCadastrosauxiliares_t">
+	<!-- Restrições de chave única -->
+		 <!--ORÇAMENTO(1) -->
+		 <xs:unique name="chaveOrcamento" id="chaveOrcamento">
+			<xs:selector xpath="aux:Orcamento"/>
+			<xs:field xpath="aux:anoVigeLoa"/>
+		</xs:unique>		 <!--UNIDADE ORÇAMENTÁRIA(2) -->
+		 <xs:unique name="chaveUnidadeOrcamentaria" id="chaveUnidadeOrcamentaria">
+			<xs:selector xpath="aux:UnidadeOrcamentaria"/>
+			<xs:field xpath="aux:codigoUnidOrcamentaria"/>
+		</xs:unique>		 <!--PROGRAMA(3) -->
+		 <xs:unique name="chavePrograma" id="chavePrograma">
+			<xs:selector xpath="aux:Programa"/>
+			<xs:field xpath="aux:codigoPrograma"/>
+		</xs:unique>		 <!--AÇÃO(4) -->
+		 <xs:unique name="chaveAcao" id="chaveAcao">
+			<xs:selector xpath="aux:Acao"/>
+			<xs:field xpath="aux:codigoAcao"/>
+		</xs:unique>		 <!--CONTAS BANCÁRIAS(5) -->
+		 <xs:unique name="chaveCadastroContaBancaria" id="chaveCadastroContaBancaria">
+			<xs:selector xpath="aux:CadastroContaBancaria"/>
+			<xs:field xpath="aux:codigoBanco"/>
+			<xs:field xpath="aux:codigoAgencia"/>
+			<xs:field xpath="aux:numeroContBancaria"/>
+			<xs:field xpath="aux:tipoContBancaria"/>
+			<xs:field xpath="aux:digitoVerificador"/>
+		</xs:unique>		 <!--DECRETO(6) -->
+		 <xs:unique name="chaveDecreto" id="chaveDecreto">
+				<xs:selector xpath="aux:Decreto"/>
+			<xs:field xpath="aux:numeroDecreto/gen:numero"/>
+			<xs:field xpath="aux:numeroDecreto/gen:ano"/>
+		</xs:unique>		 <!--CONCILIAÇÃO BANCÁRIA(7) -->
+		 <xs:unique name="chaveConciliacaoBancaria" id="chaveConciliacaoBancaria">
+			<xs:selector xpath="aux:ConciliacaoBancaria"/>
+			<xs:field xpath="aux:codigoBanco"/>
+			<xs:field xpath="aux:codigoAgencia"/>
+			<xs:field xpath="aux:numeroContBancaria"/>
+			<xs:field xpath="aux:tipoContBancaria"/>
+			<xs:field xpath="aux:numeroSequencial"/>
+		</xs:unique>		 <!--CREDOR/FORNECEDOR(8) -->
+		 <xs:unique name="chaveFornecedor" id="chaveFornecedor">
+			<xs:selector xpath="aux:Fornecedor"/>
+			<xs:field xpath="aux:cpfCnpjCredor"/>
+			<xs:field xpath="aux:identificadorFornEstrangeiro"/>
+		</xs:unique>		 <!--AGENTE POLÍTICO(9) -->
+		 <xs:unique name="chaveAgentePolitico" id="chaveAgentePolitico">
+			<xs:selector xpath="aux:AgentePolitico"/>
+			<xs:field xpath="aux:cpfAgenPolitico"/>
+		</xs:unique>		 <!--ORDENADOR(10) -->
+		 <xs:unique name="chaveOrdenador" id="chaveOrdenador">
+			<xs:selector xpath="aux:Ordenador"/>
+			<xs:field xpath="aux:codigoUnidOrcamentaria"/>
+			<xs:field xpath="aux:cpfAgenPolitico"/>
+			<xs:field xpath="aux:dataInicOuFimVigencia"/>
+			<xs:field xpath="aux:tipoDataVigencia"/>
+			<xs:field xpath="aux:numeroDecreto/gen:numero"/>
+			<xs:field xpath="aux:numeroDecreto/gen:ano"/>
+		</xs:unique>		 <!--GESTOR(11) -->
+		 <xs:unique name="chaveGestor" id="chaveGestor">
+			<xs:selector xpath="aux:Gestor"/>
+			<xs:field xpath="aux:codigoUnidOrcamentaria"/>
+			<xs:field xpath="aux:numeroDecreto/gen:numero"/>
+			<xs:field xpath="aux:numeroDecreto/gen:ano"/>
+			<xs:field xpath="aux:cpfAgenPolitico"/>
+			<xs:field xpath="aux:dataInicOuFimVigencia"/>
+			<xs:field xpath="aux:tipoDataVigencia"/>
+		</xs:unique>
+</xs:element>
+</xs:schema>

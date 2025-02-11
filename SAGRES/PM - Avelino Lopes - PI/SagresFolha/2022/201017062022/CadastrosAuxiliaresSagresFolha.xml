@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--**********************************-->
+<!--* FIORILLI SOFTWARE LTDA         *-->
+<!--* SISTEMA INTEGRADO DE PESSOAL   *-->
+<!--* GERADO 30/08/2022 11:38:55     *-->
+<!--* VERSAO 7.5.345.32.15768/R      *-->
+<!--* USUARIO STP                    *-->
+<!--* DOMINIO STP-PC                 *-->
+<!--* NOME PC STP-PC                 *-->
+<!--**********************************-->
+<aux:CadastrosAuxiliaresSagresFolha xmlns:fol="http://www.tce.pi.gov.br/sagres2022/xml/folhaPagamento" xmlns:aux="http://www.tce.pi.gov.br/sagres2022/xml/cadastrosAuxiliaresSagresFolha" xmlns:gen="http://www.tce.pi.gov.br/sagres2022/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2022/xml/tabelasInternas">
+  <aux:PrestacaoContas>
+    <aux:codigoUnidGestora>201017</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>P. M. DE AVELINO LOPES</aux:nomeUnidGestora>
+    <aux:cpfContador>00000000000</aux:cpfContador>
+    <aux:cpfGestor>01726047377</aux:cpfGestor>
+    <aux:anoReferencia>2022</aux:anoReferencia>
+    <aux:mesReferencia>6</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>1</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>30</aux:diaFinaPresContas>
+  </aux:PrestacaoContas>
+  <aux:Servidor>
+    <aux:matricula>000000000200608</aux:matricula>
+    <aux:cpfServidor>17753943871</aux:cpfServidor>
+    <aux:rgServidor>222618346</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2014-11-20</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>JUVERCINO DIAS DOS SANTOS</aux:nomeServidor>
+    <aux:dataNascimento>1966-10-17</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000000000000000</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000012324306656</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>JOAO PEREIRA DOS SANTOS</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>DOMINGAS DIAS DOS SANTOS</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Dependente>
+    <aux:matricula>000000000200608</aux:matricula>
+    <aux:cpfServidor>17753943871</aux:cpfServidor>
+    <aux:nomeDependente>KETILY DIAS DOS SANTOS</aux:nomeDependente>
+    <aux:cpfDependente>99999999999</aux:cpfDependente>
+    <aux:tipoRelaParentesco>3</aux:tipoRelaParentesco>
+    <aux:dataInclusaoDependente>2022-08-30</aux:dataInclusaoDependente>
+    <aux:invalidoIncapaz>0</aux:invalidoIncapaz>
+    <aux:dataNascimento>1999-06-14</aux:dataNascimento>
+  </aux:Dependente>
+</aux:CadastrosAuxiliaresSagresFolha>

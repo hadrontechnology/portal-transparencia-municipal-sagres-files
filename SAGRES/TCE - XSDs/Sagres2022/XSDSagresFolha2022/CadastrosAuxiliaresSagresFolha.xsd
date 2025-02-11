@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.tce.pi.gov.br/sagres2022/xml/cadastrosAuxiliaresSagresFolha" version="1.0" xml:lang="pt-BR"
+	 xmlns:gen="http://www.tce.pi.gov.br/sagres2022/xml/genericos"
+	 xmlns:tab="http://www.tce.pi.gov.br/sagres2022/xml/tabelasInternas"
+	 xmlns:aux="http://www.tce.pi.gov.br/sagres2022/xml/cadastrosAuxiliaresSagresFolha"
+	 xmlns:xs= "http://www.w3.org/2001/XMLSchema">
+
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2022/xml/genericos"       schemaLocation="genericos.xsd"/>
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2022/xml/tabelasInternas"      schemaLocation="tabelasInternas.xsd"/>
+
+	 <!-- Namespaces: Conteudo: Descricao: Arquivos de cadastros gerais -->
+	 <xs:annotation>
+		<xs:documentation>
+			<Data>Thu Dec 16 13:08:14 GFT 2021 </Data>
+			<Descricao>Descricao: Arquivos de cadastros gerais </Descricao>
+			<Justificativa>Justificativa: Criação do modelo inicial para o sagres </Justificativa>
+			<Versao>1.0</Versao>
+			</xs:documentation>
+	</xs:annotation>
+
+<!-- ==================================== Informações para o Sagres Folha ================================ -->
+
+	 <!-- ============================================================================================== -->
+	 <!--CARGO(1) -->
+	 <xs:complexType name="Cargo_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoCargo" type="gen:codigo08_t"/>
+			 <xs:element nillable="false" name="nomeDoCargo" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="cargaHoraria" type="gen:numero_t"/>
+			 <xs:element nillable="false" name="tipoEscolaridade" type="tab:tipoEscolaridade_t"/>
+			 <xs:element maxOccurs="unbounded" minOccurs="0" name="codigoCargoRhWeb" type="gen:codigo08_t"/>
+			 <xs:element nillable="false" name="vecimentoBaseOuSalario" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="tipoOcupacao" type="tab:tipoOcupacao_t"/>
+			 <xs:element nillable="false" name="naturezaCargo" type="tab:naturezaCargo_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--LOTAÇÃO(2) -->
+	 <xs:complexType name="lotacao_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoLotacao" type="gen:codigo15_t"/>
+			 <xs:element nillable="false" name="nomeLotacao" type="gen:nome_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--SERVIDOR(3) -->
+	 <xs:complexType name="Servidor_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="matricula" type="gen:codigo15_t"/>
+			 <xs:element nillable="false" name="cpfServidor" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="rgServidor" type="gen:rg_t"/>
+			 <xs:element nillable="false" name="orgaoExpedidor" type="gen:string20_t"/>
+			 <xs:element nillable="false" name="dataExpeCartDeIdentidade" type="gen:data_t"/>
+			 <xs:element nillable="false" name="nomeServidor" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="dataNascimento" type="gen:data_t"/>
+			 <xs:element nillable="false" name="sexo" type="tab:tipoSexo_t"/>
+			 <xs:element nillable="false" name="tituloEleitor" type="gen:codigo15_t"/>
+			 <xs:element nillable="false" name="tipoEstaCivil" type="tab:tipoEstaCivil_t"/>
+			 <xs:element nillable="false" name="pisPAsep" type="gen:codigo15_t"/>
+			 <xs:element nillable="true" name="numeroOrgaoClasse" type="gen:codigo08_t"/>
+			 <xs:element nillable="true" name="cpfPai" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="true" name="nomePai" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="cpfMae" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="nomeMae" type="gen:nome_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--DEPENDENTE(4) -->
+	 <xs:complexType name="Dependente_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="matricula" type="gen:codigo15_t"/>
+			 <xs:element nillable="false" name="cpfServidor" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="nomeDependente" type="gen:nome_t"/>
+			 <xs:element nillable="true" name="cpfDependente" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="tipoRelaParentesco" type="tab:tipoRelaParentesco_t"/>
+			 <xs:element nillable="false" name="dataInclusaoDependente" type="gen:data_t"/>
+			 <xs:element nillable="false" name="invalidoIncapaz" type="gen:simNao_t"/>
+			 <xs:element nillable="false" name="dataNascimento" type="gen:data_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--PRESTACAOCONTAS(5) -->
+	 <xs:complexType name="PrestacaoContas_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoUnidGestora" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="nomeUnidGestora" type="gen:nome_t"/>
+			 <xs:element nillable="false" name="cpfContador" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="cpfGestor" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="anoReferencia" type="gen:exercicioAtual_t"/>
+			 <xs:element nillable="false" name="mesReferencia" type="gen:mes_t"/>
+			 <xs:element nillable="false" name="versaoXml" type="gen:versaoXml_t"/>
+			 <xs:element nillable="false" name="diaInicPresContas" type="gen:diaMes_t"/>
+			 <xs:element nillable="false" name="diaFinaPresContas" type="gen:diaMes_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!-- Cadastros auliliares para o Sagres folha-->
+	 <xs:complexType name="listaCadastrosauxiliaresSagresFolha_t">
+		 <xs:sequence>
+			 <xs:element  maxOccurs="1" minOccurs="1" name="PrestacaoContas" type = "aux:PrestacaoContas_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Cargo" type = "aux:Cargo_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="lotacao" type = "aux:lotacao_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Servidor" type = "aux:Servidor_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Dependente" type = "aux:Dependente_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!-- ========================================================================= -->
+	<!-- root -->
+	<xs:element name="CadastrosAuxiliaresSagresFolha" type="aux:listaCadastrosauxiliaresSagresFolha_t">
+	<!-- Restrições de chave única -->
+		 <!--CARGO(1) -->
+		 <xs:unique name="chaveCargo" id="chaveCargo">
+			<xs:selector xpath="aux:Cargo"/>
+			<xs:field xpath="aux:codigoCargo"/>
+		</xs:unique>		 <!--LOTAÇÃO(2) -->
+		 <xs:unique name="chavelotacao" id="chavelotacao">
+			<xs:selector xpath="aux:lotacao"/>
+			<xs:field xpath="aux:codigoLotacao"/>
+		</xs:unique>		 <!--SERVIDOR(3) -->
+		 <xs:unique name="chaveServidor" id="chaveServidor">
+			<xs:selector xpath="aux:Servidor"/>
+			<xs:field xpath="aux:matricula"/>
+			<xs:field xpath="aux:cpfServidor"/>
+		</xs:unique>		 <!--DEPENDENTE(4) -->
+		 <xs:unique name="chaveDependente" id="chaveDependente">
+			<xs:selector xpath="aux:Dependente"/>
+			<xs:field xpath="aux:matricula"/>
+			<xs:field xpath="aux:cpfServidor"/>
+			<xs:field xpath="aux:nomeDependente"/>
+		</xs:unique>
+</xs:element>
+</xs:schema>

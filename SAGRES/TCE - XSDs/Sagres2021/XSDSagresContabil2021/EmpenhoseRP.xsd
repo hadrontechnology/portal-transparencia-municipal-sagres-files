@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" 
+	 targetNamespace="http://www.tce.pi.gov.br/sagres2021/xml/empenhoseRP" version="1.0" xml:lang="pt-BR"
+	 xmlns:gen="http://www.tce.pi.gov.br/sagres2021/xml/genericos"
+	 xmlns:tab="http://www.tce.pi.gov.br/sagres2021/xml/tabelasInternas"
+	 xmlns:aux="http://www.tce.pi.gov.br/sagres2021/xml/cadastrosAuxiliares"
+	 xmlns:emp="http://www.tce.pi.gov.br/sagres2021/xml/empenhoseRP"
+	 xmlns:xs= "http://www.w3.org/2001/XMLSchema">
+
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2021/xml/genericos"           schemaLocation="genericos.xsd"/>
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2021/xml/tabelasInternas"     schemaLocation="tabelasInternas.xsd"/>
+	 <xs:import namespace = "http://www.tce.pi.gov.br/sagres2021/xml/cadastrosAuxiliares" schemaLocation="CadastrosAuxiliares.xsd"/>
+
+	 <!-- Namespaces: Conteudo: Descricao: Arquivos de cadastros empenhos e Restos a pagar inscritos em anos anteriores -->
+	 <xs:annotation>
+		<xs:documentation>
+			<Data>Thu Oct 08 10:59:49 GFT 2020 </Data>
+			<Descricao>Descricao: Arquivos de cadastros empenhos e Restos a pagar inscritos em anos anteriores </Descricao>
+			<Justificativa>Justificativa: Criaçâo do modelo inicial para 2021</Justificativa>
+			<Versao>1.0</Versao>
+			</xs:documentation>
+	</xs:annotation>
+
+	 <!-- ============================================================================================== -->
+	 <!--EMPENHO(1) -->
+	 <xs:complexType name="Empenho_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoUnidOrcamentaria" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="codigoFuncao" type="tab:codigoFuncao_t"/>
+			 <xs:element nillable="false" name="codigoSubFuncao" type="tab:codigoSubFuncao_t"/>
+			 <xs:element nillable="false" name="codigoPrograma" type="gen:codigo04_t"/>
+			 <xs:element nillable="false" name="codigoAcao" type="gen:codigo04_t"/>
+			 <xs:element nillable="false" name="codigoCateEconomica" type="tab:codigoCateEconomica_t"/>
+			 <xs:element nillable="false" name="codigoNatuDespesa" type="tab:codigoNatuDespesa_t"/>
+			 <xs:element nillable="false" name="codigoModaAplicacao" type="tab:codigoModaAplicacao_t"/>
+			 <xs:element nillable="false" name="codigoElemDespesa" type="tab:codigoElemDespesa_t"/>
+			 <xs:element nillable="false" name="fonteRecurso" type="gen:fonteRecurso_t"/>
+			 <xs:element nillable="false" name="codigoSubeDespesa" type="tab:codigoSubeDespesa_t"/>
+			 <xs:element nillable="false" name="anoEmisEmpenho" type="gen:anoEmisEmpenho_t"/>
+			 <xs:element nillable="false" name="numeroEmpenho" type="gen:numeroEmpenho_t"/>
+			 <xs:element nillable="false" name="dataEmisEmpenho" type="gen:dataEmisEmpenho_t"/>
+			 <xs:element nillable="false" name="historicoEmpenho" type="gen:historico_t"/>
+			 <xs:element nillable="false" name="cpfOrdeDespesa" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="cpfCnpjCredor" type="gen:cpfCnpjCredor_t"/>
+			 <xs:element nillable="false" name="codigoAplicacao" type="tab:codigoAplicacao_t"/>
+			 <xs:element nillable="false" name="tipoEmpenho" type="tab:tipoEmpenho_t"/>
+			 <xs:element nillable="false" name="valorEmpenho" type="gen:valor_t"/>
+			 <xs:element nillable="true" name="numeroContTce" type="gen:string20_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--RETENÇÃO(2) -->
+	 <xs:complexType name="Retencao_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoUnidOrcamentaria" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="anoEmisEmpenho" type="gen:anoEmisEmpenho_t"/>
+			 <xs:element nillable="false" name="numeroEmpenho" type="gen:numeroEmpenho_t"/>
+			 <xs:element nillable="false" name="numeroDocuLiquidacao" type="gen:numeroDocumento_t"/>
+			 <xs:element nillable="false" name="tipoRetencao" type="tab:tipoRetencao_t"/>
+			 <xs:element nillable="false" name="tipoOrigRetencao" type="tab:tipoOrigRetencao_t"/>
+			 <xs:element nillable="false" name="cpfCnpjCredor" type="gen:cpfCnpjCredor_t"/>
+			 <xs:element nillable="false" name="valorRetencao" type="gen:valor_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!--RESTOS A PAGAR(3) -->
+	 <xs:complexType name="RestosApagar_t">
+		 <xs:sequence>
+			 <xs:element nillable="false" name="codigoUnidOrcamentaria" type="gen:codigo06_t"/>
+			 <xs:element nillable="false" name="codigoFuncao" type="tab:codigoFuncao_t"/>
+			 <xs:element nillable="false" name="codigoSubFuncao" type="tab:codigoSubFuncao_t"/>
+			 <xs:element nillable="false" name="codigoPrograma" type="gen:codigo04_t"/>
+			 <xs:element nillable="false" name="codigoAcao" type="gen:codigo04_t"/>
+			 <xs:element nillable="false" name="codigoCateEconomica" type="tab:codigoCateEconomica_t"/>
+			 <xs:element nillable="false" name="codigoNatuDespesa" type="tab:codigoNatuDespesa_t"/>
+			 <xs:element nillable="false" name="codigoModaAplicacao" type="tab:codigoModaAplicacao_t"/>
+			 <xs:element nillable="false" name="codigoElemDespesa" type="tab:codigoElemDespesa_t"/>
+			 <xs:element nillable="false" name="codigoSubeDespesa" type="tab:codigoSubeDespesa_t"/>
+			 <xs:element nillable="false" name="fonteRecurso" type="gen:fonteRecurso_t"/>
+			 <xs:element nillable="false" name="anoEmisEmpenho" type="gen:anoEmisEmpenho_t"/>
+			 <xs:element nillable="false" name="numeroEmpenho" type="gen:numeroEmpenho_t"/>
+			 <xs:element nillable="false" name="dataEmisEmpenho" type="gen:dataEmisEmpenho_t"/>
+			 <xs:element nillable="false" name="historicoEmpenho" type="gen:historico_t"/>
+			 <xs:element nillable="false" name="cpfOrdeDespesa" type="gen:numeroCpf_t"/>
+			 <xs:element nillable="false" name="cpfCnpjCredor" type="gen:cpfCnpjCredor_t"/>
+			 <xs:element nillable="false" name="codigoAplicacao" type="tab:codigoAplicacao_t"/>
+			 <xs:element nillable="false" name="tipoEmpenho" type="tab:tipoEmpenho_t"/>
+			 <xs:element nillable="false" name="valorEmpenho" type="gen:valor_t"/>
+			 <xs:element nillable="false" name="tipoRestPagar" type="tab:tipoRestPagar_t"/>
+			 <xs:element nillable="true" name="numeroContTce" type="gen:string20_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	 <!-- ============================================================================================== -->
+	 <!-- Empenhos e Restos a Pagar -->
+	 <xs:complexType name="EmpenhoseRP_t">
+		 <xs:sequence>
+			 <xs:element  maxOccurs="1" minOccurs="1" name="PrestacaoContas" type = "aux:PrestacaoContas_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Empenho" type = "emp:Empenho_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="Retencao" type = "emp:Retencao_t"/>
+			 <xs:element  maxOccurs="unbounded" minOccurs="0" name="RestosApagar" type = "emp:RestosApagar_t"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!-- ========================================================================= -->
+	<!-- root -->
+	<xs:element name="EmpenhoseRP" type="emp:EmpenhoseRP_t">
+	<!-- Restrições de chave única -->
+		 <!--EMPENHO(1) -->
+		 <xs:unique name="chaveEmpenho" id="chaveEmpenho">
+			<xs:selector xpath="emp:Empenho"/>
+			  <xs:field xpath="emp:codigoUnidOrcamentaria"/>
+			  <xs:field xpath="emp:numeroEmpenho"/>
+			  <xs:field xpath="emp:anoEmisEmpenho"/>
+		</xs:unique>
+		 <!--RETENÇÃO(2) -->
+		 <xs:unique name="chaveRetencao" id="chaveRetencao">
+			<xs:selector xpath="emp:Retencao"/>
+			  <xs:field xpath="emp:codigoUnidOrcamentaria"/>
+			  <xs:field xpath="emp:numeroEmpenho"/>
+			  <xs:field xpath="emp:tipoRetencao"/>
+			  <xs:field xpath="emp:numeroDocuLiquidacao"/>
+			  <xs:field xpath="emp:anoEmisEmpenho"/>
+			  <xs:field xpath="emp:cpfCnpjCredor"/>
+		</xs:unique>
+		 <!--RESTOS A PAGAR(3) -->
+		 <xs:unique name="chaveRestosApagar" id="chaveRestosApagar">
+			<xs:selector xpath="emp:RestosApagar"/>
+			  <xs:field xpath="emp:codigoUnidOrcamentaria"/>
+			  <xs:field xpath="emp:numeroEmpenho"/>
+			  <xs:field xpath="emp:dataEmisEmpenho"/>
+			  <xs:field xpath="emp:tipoRestPagar"/>
+		</xs:unique>
+	</xs:element>
+</xs:schema>

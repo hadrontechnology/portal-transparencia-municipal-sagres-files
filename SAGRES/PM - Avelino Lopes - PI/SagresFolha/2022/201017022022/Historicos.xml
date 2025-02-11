@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--**********************************-->
+<!--* FIORILLI SOFTWARE LTDA         *-->
+<!--* SISTEMA INTEGRADO DE PESSOAL   *-->
+<!--* GERADO 06/05/2022 09:23:00     *-->
+<!--* VERSAO 7.5.337.26.15519/R      *-->
+<!--* USUARIO EMANOEL                *-->
+<!--* DOMINIO DESKTOP-IU998HT        *-->
+<!--* NOME PC DESKTOP-IU998HT        *-->
+<!--**********************************-->
+<his:historicos xmlns:his="http://www.tce.pi.gov.br/sagres2022/xml/historicos" xmlns:aux="http://www.tce.pi.gov.br/sagres2022/xml/cadastrosAuxiliaresSagresFolha" xmlns:gen="http://www.tce.pi.gov.br/sagres2022/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2022/xml/tabelasInternas">
+  <his:PrestacaoContas>
+    <aux:codigoUnidGestora>201017</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>P. M. DE AVELINO LOPES</aux:nomeUnidGestora>
+    <aux:cpfContador>00000000000</aux:cpfContador>
+    <aux:cpfGestor>01726047377</aux:cpfGestor>
+    <aux:anoReferencia>2022</aux:anoReferencia>
+    <aux:mesReferencia>2</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>1</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>28</aux:diaFinaPresContas>
+  </his:PrestacaoContas>
+  <his:HistoricoPessoal>
+    <his:matricula>000000000200594</his:matricula>
+    <his:cpfServidor>00428130348</his:cpfServidor>
+    <his:tipoEscolaridade>3</his:tipoEscolaridade>
+    <his:dataAlteracao>2022-02-01</his:dataAlteracao>
+    <his:endereco>
+      <gen:logradouro>AV BOM JESUS</gen:logradouro>
+      <gen:numero>0</gen:numero>
+      <gen:complemento>PREFEITURA</gen:complemento>
+      <gen:bairro>CENTRO</gen:bairro>
+      <gen:numeroCep>64965000</gen:numeroCep>
+      <gen:municipio>Avelino Lopes</gen:municipio>
+      <gen:estado>PI</gen:estado>
+      <gen:telefoneFixo></gen:telefoneFixo>
+      <gen:telefoneCelular></gen:telefoneCelular>
+    </his:endereco>
+    <his:dadosBancarios>
+      <gen:codigoBanco>001</gen:codigoBanco>
+      <gen:codigoAgencia>1209</gen:codigoAgencia>
+      <gen:numeroContBancaria>276899</gen:numeroContBancaria>
+    </his:dadosBancarios>
+  </his:HistoricoPessoal>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000200594</his:matricula>
+    <his:cpfServidor>00428130348</his:cpfServidor>
+    <his:tipoAtoPessoal>11021</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2022-02-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo01>
+        <gen:codigoCargo>00000418</gen:codigoCargo>
+        <gen:codigoLotacao>000000000100018</gen:codigoLotacao>
+        <gen:tipoRegiPrevidencia>1</gen:tipoRegiPrevidencia>
+        <gen:tipoRegiTrabalho>0</gen:tipoRegiTrabalho>
+        <gen:tipoVinculo>2</gen:tipoVinculo>
+        <gen:dataNomeacao>2022-02-01</gen:dataNomeacao>
+        <gen:dataExercicio>2022-02-01</gen:dataExercicio>
+        <gen:dataPosse>2022-02-01</gen:dataPosse>
+        <gen:numeroEdital>
+          <gen:numero>000000</gen:numero>
+          <gen:ano>2022</gen:ano>
+        </gen:numeroEdital>
+      </gen:atoTipo01>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000100172</his:matricula>
+    <his:cpfServidor>78441625387</his:cpfServidor>
+    <his:tipoAtoPessoal>91034</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2022-02-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas/>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000100241</his:matricula>
+    <his:cpfServidor>82366233353</his:cpfServidor>
+    <his:tipoAtoPessoal>91061</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2022-02-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas/>
+  </his:HistoricoFuncional>
+</his:historicos>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><his:historicos xmlns:his="http://www.tce.pi.gov.br/sagres2020/xml/historicos" xmlns:gen="http://www.tce.pi.gov.br/sagres2020/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2020/xml/tabelasInternas" xmlns:aux="http://www.tce.pi.gov.br/sagres2020/xml/cadastrosAuxiliaresSagresFolha">
+  <his:PrestacaoContas>
+    <aux:codigoUnidGestora>201017</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>PREFEITURA MUNICIPAL DE AVELINO LOPES</aux:nomeUnidGestora>
+    <aux:cpfContador>72674350334</aux:cpfContador>
+    <aux:cpfGestor>64378985853</aux:cpfGestor>
+    <aux:anoReferencia>2020</aux:anoReferencia>
+    <aux:mesReferencia>05</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>01</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>31</aux:diaFinaPresContas>
+  </his:PrestacaoContas>
+    <his:HistoricoPessoal>
+       <his:matricula>000000000002035</his:matricula>
+       <his:cpfServidor>28726187833</his:cpfServidor>
+       <his:tipoEscolaridade>3</his:tipoEscolaridade>
+       <his:dataAlteracao>2020-05-31</his:dataAlteracao>
+       <his:endereco>
+           <gen:logradouro>RUA DA ALEGRIA</gen:logradouro>
+           <gen:numero>0</gen:numero>
+           <gen:complemento>SN        </gen:complemento>
+           <gen:bairro>CENTRO                                  </gen:bairro>
+           <gen:numeroCep>64965000</gen:numeroCep>
+           <gen:municipio>AVELINO LOPES</gen:municipio>
+           <gen:estado>PI</gen:estado>
+           <gen:telefoneFixo>          </gen:telefoneFixo>
+           <gen:telefoneCelular>          </gen:telefoneCelular>
+       </his:endereco>
+       <his:dadosBancarios>
+           <gen:codigoBanco>001</gen:codigoBanco>
+           <gen:codigoAgencia>012092</gen:codigoAgencia>
+           <gen:numeroContBancaria>000000000163031</gen:numeroContBancaria>
+       </his:dadosBancarios>
+    </his:HistoricoPessoal>
+    <his:HistoricoPessoal>
+       <his:matricula>000000000006081</his:matricula>
+       <his:cpfServidor>82414270349</his:cpfServidor>
+       <his:tipoEscolaridade>4</his:tipoEscolaridade>
+       <his:dataAlteracao>2020-05-31</his:dataAlteracao>
+       <his:endereco>
+           <gen:logradouro>AV BOM JESUS</gen:logradouro>
+           <gen:numero>0</gen:numero>
+           <gen:complemento>SN        </gen:complemento>
+           <gen:bairro>CENTRO                                  </gen:bairro>
+           <gen:numeroCep>64965000</gen:numeroCep>
+           <gen:municipio>AVELINO LOPES</gen:municipio>
+           <gen:estado>PI</gen:estado>
+           <gen:telefoneFixo>          </gen:telefoneFixo>
+           <gen:telefoneCelular>          </gen:telefoneCelular>
+       </his:endereco>
+       <his:dadosBancarios>
+           <gen:codigoBanco>001</gen:codigoBanco>
+           <gen:codigoAgencia>012092</gen:codigoAgencia>
+           <gen:numeroContBancaria>000000000160679</gen:numeroContBancaria>
+       </his:dadosBancarios>
+    </his:HistoricoPessoal>
+  <his:HistoricoFuncional>
+       <his:matricula>000000000002035</his:matricula>
+    <his:cpfServidor>28726187833</his:cpfServidor>
+    <his:tipoAtoPessoal>1002</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2020-05-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo01>
+        <gen:codigoCargo>20000006</gen:codigoCargo>
+        <gen:codigoLotacao>000000000030001</gen:codigoLotacao>
+        <gen:tipoRegiPrevidencia>1</gen:tipoRegiPrevidencia>
+        <gen:tipoRegiTrabalho>0</gen:tipoRegiTrabalho>
+        <gen:tipoVinculo>9</gen:tipoVinculo>
+        <gen:dataNomeacao>2007-01-02</gen:dataNomeacao>
+        <gen:dataExercicio>2007-01-02</gen:dataExercicio>
+        <gen:dataPosse>2007-01-02</gen:dataPosse>
+        <gen:numeroEdital>
+          <gen:numero>000000</gen:numero>
+          <gen:ano>2007</gen:ano>
+        </gen:numeroEdital>
+      </gen:atoTipo01>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+       <his:matricula>000000000006081</his:matricula>
+    <his:cpfServidor>82414270349</his:cpfServidor>
+    <his:tipoAtoPessoal>1002</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2020-05-01</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo01>
+        <gen:codigoCargo>60000002</gen:codigoCargo>
+        <gen:codigoLotacao>000000000060003</gen:codigoLotacao>
+        <gen:tipoRegiPrevidencia>1</gen:tipoRegiPrevidencia>
+        <gen:tipoRegiTrabalho>0</gen:tipoRegiTrabalho>
+        <gen:tipoVinculo>9</gen:tipoVinculo>
+        <gen:dataNomeacao>1997-08-01</gen:dataNomeacao>
+        <gen:dataExercicio>1997-08-01</gen:dataExercicio>
+        <gen:dataPosse>1997-08-01</gen:dataPosse>
+        <gen:numeroEdital>
+          <gen:numero>000000</gen:numero>
+          <gen:ano>1997</gen:ano>
+        </gen:numeroEdital>
+      </gen:atoTipo01>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000001518</his:matricula>
+    <his:cpfServidor>02913414117</his:cpfServidor>
+    <his:tipoAtoPessoal>2009</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2020-05-31</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000001524</his:matricula>
+    <his:cpfServidor>15285534895</his:cpfServidor>
+    <his:tipoAtoPessoal>2009</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2020-05-31</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+</his:historicos>

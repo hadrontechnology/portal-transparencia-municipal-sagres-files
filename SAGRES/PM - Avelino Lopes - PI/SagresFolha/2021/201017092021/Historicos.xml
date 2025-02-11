@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--**********************************-->
+<!--* FIORILLI SOFTWARE LTDA         *-->
+<!--* SISTEMA INTEGRADO DE PESSOAL   *-->
+<!--* GERADO 22/11/2021 20:13:14     *-->
+<!--* VERSAO 7.5.325.15.15111/R      *-->
+<!--* USUARIO CLIENTE                *-->
+<!--* DOMINIO DESKTOP-EFAV3O1        *-->
+<!--* NOME PC DESKTOP-EFAV3O1        *-->
+<!--**********************************-->
+<his:historicos xmlns:his="http://www.tce.pi.gov.br/sagres2021/xml/historicos" xmlns:aux="http://www.tce.pi.gov.br/sagres2021/xml/cadastrosAuxiliaresSagresFolha" xmlns:gen="http://www.tce.pi.gov.br/sagres2021/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2021/xml/tabelasInternas">
+  <his:PrestacaoContas>
+    <aux:codigoUnidGestora>201017</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>P. M. DE AVELINO LOPES</aux:nomeUnidGestora>
+    <aux:cpfContador>00000000000</aux:cpfContador>
+    <aux:cpfGestor>01726047377</aux:cpfGestor>
+    <aux:anoReferencia>2021</aux:anoReferencia>
+    <aux:mesReferencia>9</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>1</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>30</aux:diaFinaPresContas>
+  </his:PrestacaoContas>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000200539</his:matricula>
+    <his:cpfServidor>57942552187</his:cpfServidor>
+    <his:tipoAtoPessoal>93041</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2021-09-17</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo02>
+        <gen:codigoLotacao>000000000009280</gen:codigoLotacao>
+      </gen:atoTipo02>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+  <his:HistoricoFuncional>
+    <his:matricula>000000000100043</his:matricula>
+    <his:cpfServidor>27437728320</his:cpfServidor>
+    <his:tipoAtoPessoal>93012</his:tipoAtoPessoal>
+    <his:dataMoviFuncional>2021-09-27</his:dataMoviFuncional>
+    <his:informacoesAlteradas>
+      <gen:atoTipo05>
+        <gen:codigoCargo>00000362</gen:codigoCargo>
+      </gen:atoTipo05>
+    </his:informacoesAlteradas>
+  </his:HistoricoFuncional>
+</his:historicos>

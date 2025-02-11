@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--********************************************-->
+<!--* FIORILLI SOFTWARE LTDA                   *-->
+<!--* SISTEMA INTEGRADO DE PESSOAL             *-->
+<!--* GERADO 16/10/2023 10:53:05               *-->
+<!--* VERSAO 7.5.375.26.16931/R                *-->
+<!--* USUARIO PC DIEGO                         *-->
+<!--* DOMINIO MCT                              *-->
+<!--* NOME PC SERVER                           *-->
+<!--* USUARIO SISTEMA diego                    *-->
+<!--********************************************-->
+<aux:CadastrosAuxiliaresSagresFolha xmlns:fol="http://www.tce.pi.gov.br/sagres2023/xml/folhaPagamento" xmlns:aux="http://www.tce.pi.gov.br/sagres2023/xml/cadastrosAuxiliaresSagresFolha" xmlns:gen="http://www.tce.pi.gov.br/sagres2023/xml/genericos" xmlns:tab="http://www.tce.pi.gov.br/sagres2023/xml/tabelasInternas">
+  <aux:PrestacaoContas>
+    <aux:codigoUnidGestora>201133</aux:codigoUnidGestora>
+    <aux:nomeUnidGestora>P. M. DE MORRO CABECA NO TEMPO</aux:nomeUnidGestora>
+    <aux:cpfContador>01340944332</aux:cpfContador>
+    <aux:cpfGestor>82387796349</aux:cpfGestor>
+    <aux:anoReferencia>2023</aux:anoReferencia>
+    <aux:mesReferencia>7</aux:mesReferencia>
+    <aux:versaoXml>19</aux:versaoXml>
+    <aux:diaInicPresContas>1</aux:diaInicPresContas>
+    <aux:diaFinaPresContas>31</aux:diaFinaPresContas>
+  </aux:PrestacaoContas>
+  <aux:Cargo>
+    <aux:codigoCargo>00000263</aux:codigoCargo>
+    <aux:nomeDoCargo>AGENTE DE COMBATE A ENDEMIAS</aux:nomeDoCargo>
+    <aux:cargaHoraria>30</aux:cargaHoraria>
+    <aux:tipoEscolaridade>0</aux:tipoEscolaridade>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:vecimentoBaseOuSalario>0.00</aux:vecimentoBaseOuSalario>
+    <aux:tipoOcupacao>515140</aux:tipoOcupacao>
+    <aux:naturezaCargo>5</aux:naturezaCargo>
+  </aux:Cargo>
+  <aux:Cargo>
+    <aux:codigoCargo>00000264</aux:codigoCargo>
+    <aux:nomeDoCargo>COORDENAÇÃO DE TRANSPORTE ESCOLAR</aux:nomeDoCargo>
+    <aux:cargaHoraria>20</aux:cargaHoraria>
+    <aux:tipoEscolaridade>0</aux:tipoEscolaridade>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:codigoCargoRhWeb>00000000</aux:codigoCargoRhWeb>
+    <aux:vecimentoBaseOuSalario>0.00</aux:vecimentoBaseOuSalario>
+    <aux:tipoOcupacao>334115</aux:tipoOcupacao>
+    <aux:naturezaCargo>3</aux:naturezaCargo>
+  </aux:Cargo>
+  <aux:Servidor>
+    <aux:matricula>000000000000905</aux:matricula>
+    <aux:cpfServidor>03892833559</aux:cpfServidor>
+    <aux:rgServidor>145023699</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPBA</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2018-08-28</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>JÚNIOR RIBEIRO DE SOUSA</aux:nomeServidor>
+    <aux:dataNascimento>1993-01-21</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000141878290507</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000014304014869</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>OSVALDO JOSÉ DE SOUSA</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>MARIA RIBEIRO DE SOUSA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000906</aux:matricula>
+    <aux:cpfServidor>14066903843</aux:cpfServidor>
+    <aux:rgServidor>23273706</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2008-12-01</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>IDEBLANDIO JOSÉ DE SOUSA</aux:nomeServidor>
+    <aux:dataNascimento>1969-03-17</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000025772561520</aux:tituloEleitor>
+    <aux:tipoEstaCivil>6</aux:tipoEstaCivil>
+    <aux:pisPAsep>000012363742925</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>PEDRO JOSÉ DE SOUZA</aux:nomePai>
+    <aux:cpfMae>00917592859</aux:cpfMae>
+    <aux:nomeMae>CARMINA MARIA DE SOUSA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000907</aux:matricula>
+    <aux:cpfServidor>03603824369</aux:cpfServidor>
+    <aux:rgServidor>2825375</aux:rgServidor>
+    <aux:orgaoExpedidor></aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2015-07-21</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>EDMILSON RIBEIRO DE SOUSA</aux:nomeServidor>
+    <aux:dataNascimento>1988-04-12</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000035120701538</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016043663156</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>CRISTIANO SIMÕES DE SOUSA</aux:nomePai>
+    <aux:cpfMae>83125353300</aux:cpfMae>
+    <aux:nomeMae>ISAILDES RIBEIRO DE SOUSA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000908</aux:matricula>
+    <aux:cpfServidor>02867128307</aux:cpfServidor>
+    <aux:rgServidor>2615714</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2003-03-13</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>GILIAN MARQUES DA ROCHA</aux:nomeServidor>
+    <aux:dataNascimento>1988-10-24</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000037006131546</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016200964328</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>09649232893</aux:cpfPai>
+    <aux:nomePai>GILSON RIBEIRO DA ROCHA</aux:nomePai>
+    <aux:cpfMae>00308901363</aux:cpfMae>
+    <aux:nomeMae>AURENI MARQUES DA ROCHA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000909</aux:matricula>
+    <aux:cpfServidor>94750092304</aux:cpfServidor>
+    <aux:rgServidor>116881992</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPBA</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2000-08-10</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>ITAMARA DUARTE DO LAGO</aux:nomeServidor>
+    <aux:dataNascimento>1981-08-15</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000026466111520</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000020322251766</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>10561455520</aux:cpfPai>
+    <aux:nomePai>JOSÉ ITAMAR NETO</aux:nomePai>
+    <aux:cpfMae>29610575315</aux:cpfMae>
+    <aux:nomeMae>RAIMUNDA NONATA DO LAGO ITAMAR</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000910</aux:matricula>
+    <aux:cpfServidor>07363560374</aux:cpfServidor>
+    <aux:rgServidor>4158150</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2014-12-12</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>MARDO ALVES ALFRE</aux:nomeServidor>
+    <aux:dataNascimento>1998-04-15</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000043410141562</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016441509033</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>20098705814</aux:cpfPai>
+    <aux:nomePai>VANDIEL ALFRE NAPONUCENO</aux:nomePai>
+    <aux:cpfMae>98756290306</aux:cpfMae>
+    <aux:nomeMae>ACELIA ALVES AMORIM</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000911</aux:matricula>
+    <aux:cpfServidor>00650253345</aux:cpfServidor>
+    <aux:rgServidor>2824277</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2021-09-28</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>CLEBES NOGUEIRA DA SILVA</aux:nomeServidor>
+    <aux:dataNascimento>1983-06-11</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000027708401538</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000026749805017</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>Sem Nome</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>SOFIA SILVA DA COSTA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000912</aux:matricula>
+    <aux:cpfServidor>03835144367</aux:cpfServidor>
+    <aux:rgServidor>2825007</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2006-03-04</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>MANOEL ALEXANDRE DA TRINDADE</aux:nomeServidor>
+    <aux:dataNascimento>1988-05-25</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000035796151546</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000023610727302</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>55212905320</aux:cpfPai>
+    <aux:nomePai>HENRIQUE PEREIRA DA TRINDADE</aux:nomePai>
+    <aux:cpfMae>01503878309</aux:cpfMae>
+    <aux:nomeMae>SALVADOR ALEXANDRE DA TRINDADE</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000913</aux:matricula>
+    <aux:cpfServidor>37019064833</aux:cpfServidor>
+    <aux:rgServidor>394615852</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2014-10-23</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>DELILE ALVES DE FIGUEREDO</aux:nomeServidor>
+    <aux:dataNascimento>1985-09-06</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000035120011503</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000013407991893</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>39422194768</aux:cpfPai>
+    <aux:nomePai>ENIVALDO NUNES FIGUEREDO</aux:nomePai>
+    <aux:cpfMae>18542207807</aux:cpfMae>
+    <aux:nomeMae>CLARA ALVES DE FIGUEREDO</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000914</aux:matricula>
+    <aux:cpfServidor>01248082397</aux:cpfServidor>
+    <aux:rgServidor>2824487</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2006-03-04</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>VANDETE VIEIRA DO BOMFIM</aux:nomeServidor>
+    <aux:dataNascimento>1983-04-03</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000027303421503</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000020130023803</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>ANTONIO VIEIRA DO BOMFIM</aux:nomePai>
+    <aux:cpfMae>02986687342</aux:cpfMae>
+    <aux:nomeMae>MATILDE MARIA DO BOMFIM</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000915</aux:matricula>
+    <aux:cpfServidor>04119707121</aux:cpfServidor>
+    <aux:rgServidor>2824349</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2006-02-22</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>ELISSONE CARVALHO DOS REIS</aux:nomeServidor>
+    <aux:dataNascimento>1987-05-16</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000035792561562</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000020463382182</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>46820620187</aux:cpfPai>
+    <aux:nomePai>ELIECI RIBEIRO DOS REIS</aux:nomePai>
+    <aux:cpfMae>02749553342</aux:cpfMae>
+    <aux:nomeMae>ELINE DE CARVALHO</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000916</aux:matricula>
+    <aux:cpfServidor>07127869375</aux:cpfServidor>
+    <aux:rgServidor>3581884</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPDF</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2014-01-30</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>SAMARA MARQUES DA SILVA</aux:nomeServidor>
+    <aux:dataNascimento>1997-12-01</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000043411751546</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016653914608</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>91405297387</aux:cpfPai>
+    <aux:nomePai>VALDEMIR MARQUES DA SILVA</aux:nomePai>
+    <aux:cpfMae>89120167334</aux:cpfMae>
+    <aux:nomeMae>NILZENE MARIA DA SILVA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000917</aux:matricula>
+    <aux:cpfServidor>08423683370</aux:cpfServidor>
+    <aux:rgServidor>4137334</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2014-10-29</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>SILVIA CARONINNE DA LUZ ALVES</aux:nomeServidor>
+    <aux:dataNascimento>1999-11-17</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000044706391511</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000026972170514</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>85998788168</aux:cpfPai>
+    <aux:nomePai>JOÃO ALVES FERNANDES</aux:nomePai>
+    <aux:cpfMae>94566445534</aux:cpfMae>
+    <aux:nomeMae>FLÁVIA DA LUZ SILVA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000918</aux:matricula>
+    <aux:cpfServidor>48618330000</aux:cpfServidor>
+    <aux:rgServidor>103536841</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPRS</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2022-10-21</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>RUDINEI SALLET</aux:nomeServidor>
+    <aux:dataNascimento>1966-03-18</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000000000000000</aux:tituloEleitor>
+    <aux:tipoEstaCivil>4</aux:tipoEstaCivil>
+    <aux:pisPAsep>000018087970093</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>05839211087</aux:cpfPai>
+    <aux:nomePai>ADOLAR SALLET</aux:nomePai>
+    <aux:cpfMae>48566349920</aux:cpfMae>
+    <aux:nomeMae>FILOMENA BOBRZYK SALLET</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000919</aux:matricula>
+    <aux:cpfServidor>35309467882</aux:cpfServidor>
+    <aux:rgServidor>445384165</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2011-04-04</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>LUIZ CARLOS LOPES DA SILVA</aux:nomeServidor>
+    <aux:dataNascimento>1986-02-18</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000339412940116</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000020434731719</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>09644398831</aux:cpfPai>
+    <aux:nomePai>NITERVAL ARAUJO SILVA</aux:nomePai>
+    <aux:cpfMae>25566844880</aux:cpfMae>
+    <aux:nomeMae>ROSALIA LOPES DA SILVA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000920</aux:matricula>
+    <aux:cpfServidor>05009700336</aux:cpfServidor>
+    <aux:rgServidor>588034125</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2017-10-20</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>ALESSANDRA MENDES LOPES FIGUEREDO</aux:nomeServidor>
+    <aux:dataNascimento>1990-12-05</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000040046711503</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000026733965761</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00005039</aux:numeroOrgaoClasse>
+    <aux:cpfPai>29644380304</aux:cpfPai>
+    <aux:nomePai>ANACLETO FRANCISCO LOPES</aux:nomePai>
+    <aux:cpfMae>00802030351</aux:cpfMae>
+    <aux:nomeMae>MARIA  DELVANE LOPES</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000921</aux:matricula>
+    <aux:cpfServidor>46752427828</aux:cpfServidor>
+    <aux:rgServidor>573659850</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2022-04-13</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>MAICONSOEL DUARTE PEREIRA</aux:nomeServidor>
+    <aux:dataNascimento>1994-04-21</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000042166041570</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016375285039</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>56416733153</aux:cpfPai>
+    <aux:nomePai>SALVADOR BISPO PEREIRA</aux:nomePai>
+    <aux:cpfMae>01451719302</aux:cpfMae>
+    <aux:nomeMae>MARIA ANGELICA DUARTE PEREIRA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000922</aux:matricula>
+    <aux:cpfServidor>05540161335</aux:cpfServidor>
+    <aux:rgServidor>39219949</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2012-06-26</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>IDALIA SALVADORA NETA</aux:nomeServidor>
+    <aux:dataNascimento>1992-04-06</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000000000000000</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016200693871</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>09319157839</aux:cpfPai>
+    <aux:nomePai>MANOEL SALVADOR SOBRINHO</aux:nomePai>
+    <aux:cpfMae>11362645826</aux:cpfMae>
+    <aux:nomeMae>ANA MARIA SALVADORA DIAS</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000923</aux:matricula>
+    <aux:cpfServidor>07125131328</aux:cpfServidor>
+    <aux:rgServidor>4021046</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2014-02-07</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>RONILDO JUREMA FOLHA</aux:nomeServidor>
+    <aux:dataNascimento>1995-01-27</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000041553071511</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016617346417</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>45352615391</aux:cpfPai>
+    <aux:nomePai>JOSÉ NILTON FOLHA</aux:nomePai>
+    <aux:cpfMae>01122802340</aux:cpfMae>
+    <aux:nomeMae>NAIR JUREMA FOLHA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000924</aux:matricula>
+    <aux:cpfServidor>02654325377</aux:cpfServidor>
+    <aux:rgServidor>2265248</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2019-11-20</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>FERNANDES RIBEIRO DE SOUSA</aux:nomeServidor>
+    <aux:dataNascimento>1984-06-02</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000027302421538</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016752514942</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>87263327368</aux:cpfPai>
+    <aux:nomePai>JULIO PEREIRA DE SOUSA</aux:nomePai>
+    <aux:cpfMae>85191850378</aux:cpfMae>
+    <aux:nomeMae>LUCIA RIBEIRO DE SOUSA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000925</aux:matricula>
+    <aux:cpfServidor>06055941392</aux:cpfServidor>
+    <aux:rgServidor>3447857</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2010-04-28</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>VIVIANE SENA DA SILVA</aux:nomeServidor>
+    <aux:dataNascimento>1994-01-01</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000041255471503</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000026741219151</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>77186680100</aux:cpfPai>
+    <aux:nomePai>MARINALDO BISPO DA SILVA</aux:nomePai>
+    <aux:cpfMae>00631915559</aux:cpfMae>
+    <aux:nomeMae>LETICIA DE SENA DA SILVA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000926</aux:matricula>
+    <aux:cpfServidor>05294071320</aux:cpfServidor>
+    <aux:rgServidor>532410646</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2009-02-10</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>MICHELE MENDES DE OLIVEIRA</aux:nomeServidor>
+    <aux:dataNascimento>1988-09-03</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000036987181520</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000026762300691</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>SIDNEI FERREIRA DE OLIVEIRA</aux:nomePai>
+    <aux:cpfMae>16110547883</aux:cpfMae>
+    <aux:nomeMae>RAIMUNDA MENDES FERREIRA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000927</aux:matricula>
+    <aux:cpfServidor>05260052382</aux:cpfServidor>
+    <aux:rgServidor>3211242</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2008-07-21</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>ODEILSON CLEMENTINO DA SILVA</aux:nomeServidor>
+    <aux:dataNascimento>1989-10-15</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000040046291503</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000026858822397</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>ODEMI CLEMENTINO DA SILVA</aux:nomePai>
+    <aux:cpfMae>81319126120</aux:cpfMae>
+    <aux:nomeMae>ANA CLEMENTINO DA SILVA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000928</aux:matricula>
+    <aux:cpfServidor>04149954305</aux:cpfServidor>
+    <aux:rgServidor>57463291</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2013-05-13</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>ROBES MATIAS FOLHA</aux:nomeServidor>
+    <aux:dataNascimento>1990-05-29</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000037546831503</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016550642176</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>12411184859</aux:cpfPai>
+    <aux:nomePai>JOAO MATIAS FOLHA</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>MARIA APARECIDA FOLHA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000929</aux:matricula>
+    <aux:cpfServidor>82327475368</aux:cpfServidor>
+    <aux:rgServidor>1537167</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2006-03-31</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>MARCOS VINICIUS CHAVES CUNHA</aux:nomeServidor>
+    <aux:dataNascimento>1978-05-05</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000029299841554</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000012622141485</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>JOÃO DA SILVA CUNHA</aux:nomePai>
+    <aux:cpfMae>75790947387</aux:cpfMae>
+    <aux:nomeMae>MARIA EUNILDA CHAVES CUNHA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000930</aux:matricula>
+    <aux:cpfServidor>47996432821</aux:cpfServidor>
+    <aux:rgServidor>562697019</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2019-01-14</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>KAREN OLIVEIRA DA SILVA</aux:nomeServidor>
+    <aux:dataNascimento>1999-11-15</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000442060520116</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000023774369727</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>MARCELO LAURINDO DA SILVA</aux:nomePai>
+    <aux:cpfMae>27066093895</aux:cpfMae>
+    <aux:nomeMae>LUCIANA FATIMA OLIVEIRA DA SILVA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000931</aux:matricula>
+    <aux:cpfServidor>04855737330</aux:cpfServidor>
+    <aux:rgServidor>2832762</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2006-03-04</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>ROSANA ALVES FERNANDES</aux:nomeServidor>
+    <aux:dataNascimento>1989-12-12</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000037547511589</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016864297161</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>ELIAS ALVES FERNANDES</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>ROZILDA MENDES FERNANDES</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000932</aux:matricula>
+    <aux:cpfServidor>04646704382</aux:cpfServidor>
+    <aux:rgServidor>643842068</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2018-03-14</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>JUARIA MARQUES DE SOUSA</aux:nomeServidor>
+    <aux:dataNascimento>1989-04-17</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000037006601562</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016201204939</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>MAROLIM MARQUES DE SOUSA</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>ELIZABETE MARQUES NOGUEIRA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000933</aux:matricula>
+    <aux:cpfServidor>10464437393</aux:cpfServidor>
+    <aux:rgServidor>3989862</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2013-12-04</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>EMANUELA PEREIRA DE SENA</aux:nomeServidor>
+    <aux:dataNascimento>2003-02-28</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000047090421511</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000021269021348</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>16118440883</aux:cpfPai>
+    <aux:nomePai>AUGUSTO VIANA DE SENA</aux:nomePai>
+    <aux:cpfMae>00205270557</aux:cpfMae>
+    <aux:nomeMae>MARILEIDE PEREIRA NUNES</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000934</aux:matricula>
+    <aux:cpfServidor>05584601357</aux:cpfServidor>
+    <aux:rgServidor>545490248</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2014-05-21</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>FRANCIELLA DIAS MENDES</aux:nomeServidor>
+    <aux:dataNascimento>1992-08-20</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000039391951570</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016200574937</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>03667526857</aux:cpfPai>
+    <aux:nomePai>LUIS ALVES MENDES DO ROSARIO</aux:nomePai>
+    <aux:cpfMae>26386265890</aux:cpfMae>
+    <aux:nomeMae>IDAILZA ALVES DIAS MENDES</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000935</aux:matricula>
+    <aux:cpfServidor>01361377330</aux:cpfServidor>
+    <aux:rgServidor>2447958</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2003-01-22</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>CLEIANA MARIA ALFRES</aux:nomeServidor>
+    <aux:dataNascimento>1986-10-20</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000032007061503</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016437839725</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>24514179353</aux:cpfPai>
+    <aux:nomePai>VIRISSIMO ALFRE DE NAPONUCENO</aux:nomePai>
+    <aux:cpfMae>69470502353</aux:cpfMae>
+    <aux:nomeMae>NOEME MARIA ALFRE</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000936</aux:matricula>
+    <aux:cpfServidor>05782106140</aux:cpfServidor>
+    <aux:rgServidor>3551377</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPDFDF</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2019-07-03</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>CHRYSTOPHER BRUNO TRINDADE DE SOUZA</aux:nomeServidor>
+    <aux:dataNascimento>1998-02-23</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000000000000000</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016493465126</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>48823406153</aux:cpfPai>
+    <aux:nomePai>RAIMUNDO NONATO DE SOUSA FILHO</aux:nomePai>
+    <aux:cpfMae>44453558104</aux:cpfMae>
+    <aux:nomeMae>LUCIMAR SANTOS TRINDADE</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000937</aux:matricula>
+    <aux:cpfServidor>01505266360</aux:cpfServidor>
+    <aux:rgServidor>022465912</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPMA</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2011-08-09</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>CLICIA LOPES DE OLIVEIRA</aux:nomeServidor>
+    <aux:dataNascimento>1986-03-15</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000049615051104</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016483312653</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>11945963808</aux:cpfPai>
+    <aux:nomePai>FRANCISCO NETO DE OLIVEIRA</aux:nomePai>
+    <aux:cpfMae>18143695387</aux:cpfMae>
+    <aux:nomeMae>JOANA ALICE LOPES DE OLIVEIRA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000938</aux:matricula>
+    <aux:cpfServidor>05550311364</aux:cpfServidor>
+    <aux:rgServidor>551490846</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2011-03-02</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>CASSIA RIBEIRO DE SOUSA DUARTE</aux:nomeServidor>
+    <aux:dataNascimento>1991-09-02</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000039391671511</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016201315633</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>14916204808</aux:cpfPai>
+    <aux:nomePai>REINALDO JOSÉ DE SOUSA</aux:nomePai>
+    <aux:cpfMae>01432614363</aux:cpfMae>
+    <aux:nomeMae>CRISTINA RIBEIRO DE SOUSA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000939</aux:matricula>
+    <aux:cpfServidor>07905501302</aux:cpfServidor>
+    <aux:rgServidor>4179552</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2015-02-03</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>MIKAELA PEREIRA DE SOUSA</aux:nomeServidor>
+    <aux:dataNascimento>2002-03-05</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000000000000000</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000016478950671</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>76922332334</aux:cpfPai>
+    <aux:nomePai>GILMAR NUNES DE SOUSA</aux:nomePai>
+    <aux:cpfMae>00221992332</aux:cpfMae>
+    <aux:nomeMae>DAURENI PEREIRA DE SOUSA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000940</aux:matricula>
+    <aux:cpfServidor>08440607121</aux:cpfServidor>
+    <aux:rgServidor>4439371</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2021-04-01</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>EMILLY SHAIANE DUARTE MENDES</aux:nomeServidor>
+    <aux:dataNascimento>2004-04-06</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000047650101597</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000026974752979</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>Sem Nome</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>PRISCILA DUARTE MENDES</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000941</aux:matricula>
+    <aux:cpfServidor>02101531305</aux:cpfServidor>
+    <aux:rgServidor>2824905</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2006-03-04</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>EDIMARCIA MARQUES DIAS</aux:nomeServidor>
+    <aux:dataNascimento>1982-08-26</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000025358401554</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000020197154918</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>GEDISON PEREIRA DIAS</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>SOLANGEN MARQUES DIAS</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000942</aux:matricula>
+    <aux:cpfServidor>01269753371</aux:cpfServidor>
+    <aux:rgServidor>2910080</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2006-08-15</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>SIMONE ALVES AMORIM</aux:nomeServidor>
+    <aux:dataNascimento>1983-02-22</aux:dataNascimento>
+    <aux:sexo>2</aux:sexo>
+    <aux:tituloEleitor>000025774511546</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000011736921783</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>00005921376</aux:cpfPai>
+    <aux:nomePai>ONIAS RODRIGUES AMORIM</aux:nomePai>
+    <aux:cpfMae>00375660321</aux:cpfMae>
+    <aux:nomeMae>GIDELEI ALVES AMORIM</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000943</aux:matricula>
+    <aux:cpfServidor>11558720880</aux:cpfServidor>
+    <aux:rgServidor>22221524</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPSP</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>1987-02-16</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>ARILDIO ALVES BORGES</aux:nomeServidor>
+    <aux:dataNascimento>1968-01-26</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000004153301589</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000012313811052</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>CLAUDIO JOSÉ ALVES</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>JOANA JOSÉ ALVES</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000944</aux:matricula>
+    <aux:cpfServidor>82250359334</aux:cpfServidor>
+    <aux:rgServidor>1908512</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>1997-05-20</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>REGINALDO VENCERLENCIO DA SILVA</aux:nomeServidor>
+    <aux:dataNascimento>1979-01-31</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000024021101554</aux:tituloEleitor>
+    <aux:tipoEstaCivil>2</aux:tipoEstaCivil>
+    <aux:pisPAsep>000014062416197</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>99999999999</aux:cpfPai>
+    <aux:nomePai>JOÃO VENCERLENCIO DA SILVA</aux:nomePai>
+    <aux:cpfMae>99999999999</aux:cpfMae>
+    <aux:nomeMae>MARIA BATISTA DE OLIVEIRA</aux:nomeMae>
+  </aux:Servidor>
+  <aux:Servidor>
+    <aux:matricula>000000000000945</aux:matricula>
+    <aux:cpfServidor>01767709331</aux:cpfServidor>
+    <aux:rgServidor>5005135</aux:rgServidor>
+    <aux:orgaoExpedidor>SSPPI</aux:orgaoExpedidor>
+    <aux:dataExpeCartDeIdentidade>2020-03-04</aux:dataExpeCartDeIdentidade>
+    <aux:nomeServidor>WLADINEY RODRIGUES FOLHA</aux:nomeServidor>
+    <aux:dataNascimento>1985-08-24</aux:dataNascimento>
+    <aux:sexo>1</aux:sexo>
+    <aux:tituloEleitor>000000000000000</aux:tituloEleitor>
+    <aux:tipoEstaCivil>1</aux:tipoEstaCivil>
+    <aux:pisPAsep>000014867528028</aux:pisPAsep>
+    <aux:numeroOrgaoClasse>00000000</aux:numeroOrgaoClasse>
+    <aux:cpfPai>86157299304</aux:cpfPai>
+    <aux:nomePai>SEBASTIÃO FERNANDES FOLHA</aux:nomePai>
+    <aux:cpfMae>86404768372</aux:cpfMae>
+    <aux:nomeMae>ELIETE RODRIGUES CÉSAR</aux:nomeMae>
+  </aux:Servidor>
+</aux:CadastrosAuxiliaresSagresFolha>
